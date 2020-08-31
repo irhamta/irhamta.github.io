@@ -91,12 +91,12 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images2/profile2.jpg"
-  bio              : "Astronomer who tries to understand the growth of supermassive black holes, cosmic reionization, and physics of early universe. Experienced Data Scientist with a demonstrated history of working in the fintech/e-commerce industry."
+  bio              : "Astronomer who tries to understand the growth of supermassive black holes, cosmic reionization, and physics of early universe."
   location         : "Heidelberg, Germany"
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://irhamta.github.io"
+      url: "https://www.linkedin.com/in/irham-taufik-andika/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/irhamta"
@@ -179,9 +179,6 @@ kramdown:
 
 # Collections
 collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -207,18 +204,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
   # _portfolio
   - scope:
       path: ""
