@@ -10,7 +10,7 @@ toc: true
 My research interest includes the observational study of the active galactic nuclei (AGNs) and their host galaxies. The central engine of AGNs is powered by the accretion of matter (in the form of the accretion disk) into the supermassive black hole. The produced energy is then released as radiation, winds, and/or jets. The primary focus of this work is to investigate the origin, physical processes, and evolution of these objects.
 {: style="text-align: justify;"}
 
-| ![accreting black hole](/assets/images2/accreting_black_hole.jpg) |
+| ![accreting black hole]({{ site.url }}{{ site.baseurl }}/assets/images2/accreting_black_hole.jpg) |
 |:--:| 
 | *Accreting supermassive black hole at the center of AGN. Image credits: NASA/ESO.* |
 
@@ -19,7 +19,7 @@ My previous works include the study of type 1 AGNs by using SDSS spectra and com
 
 ## Cosmic Evolution of Radio AGNs
 
-| ![radio galaxy](/assets/images2/radio_galaxy.jpg) | 
+| ![radio galaxy]({{ site.url }}{{ site.baseurl }}/assets/images2/radio_galaxy.jpg) | 
 |:--:| 
 | *Optical and radio view of massive radio galaxy Hercules. Image Credit: NASA/ESO.* |
 

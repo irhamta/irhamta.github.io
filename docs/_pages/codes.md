@@ -33,7 +33,7 @@ Here you can find some of the scientific codes that I've used and developed.
 7. Edit the scripts if necessary to suit your needs.
 {: style="text-align: justify;"}
 
-| ![AGN-specfit example](/assets/images2/specfit.png) |
+| ![AGN-specfit example]({{ site.url }}{{ site.baseurl }}/assets/images2/specfit.png) |
 |:--:| 
 | *Example of spectral modeling by using AGN-Specfit for SDSS AGN data.* |
 
@@ -42,7 +42,7 @@ Here you can find some of the scientific codes that I've used and developed.
 [ANNz2](https://github.com/IftachSadeh/ANNZ) is a public photometric redshift (photo-z) code that was originally developed by [Sadeh et al. (2016)](https://arxiv.org/abs/1507.00490). This code implements artificial neural network, boosted regression trees, and other machine learning methods to estimate and generate photo-z full probability distribution functions (PDFs). It also mitigates possible problems of non-representative or incomplete spectroscopic training samples by using weighting scheme.
 {: style="text-align: justify;"}
 
-| ![ANNz2](/assets/images2/annz_hist.png) |
+| ![ANNz2]({{ site.url }}{{ site.baseurl }}/assets/images2/annz_hist.png) |
 |:--:| 
 | *Example of photo-z caculation result compared to spectroscopic redshift values* |
 
@@ -54,6 +54,6 @@ Here we utilize the code to estimate our AGNs photo-z and determine their lumino
 All of my codes are publicly available and maintained on my Github pages below.
 {: style="text-align: justify;"}
 
-![coding](/assets/images2/coding.jpg)
+![coding]({{ site.url }}{{ site.baseurl }}/assets/images2/coding.jpg)
 
 [Link to Github](https://github.com/irhamta/){: .btn .btn--info}
