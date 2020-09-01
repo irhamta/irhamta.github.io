@@ -5,14 +5,15 @@ hidden: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images2/ESO_Centaurus_A.jpg
+  overlay_image: /assets/images2/eso_centaurus_a.jpg
   actions:
     - label: "<i class='fas fa-rocket'></i> Explore"
       url: "#contact"
-  caption: "Image Credits: NASA and ESO"
+  caption: "Credit: ESO"
 excerpt: "Observational Astronomer and Experienced Data Scientist"
 intro: 
   - image_path: /assets/images2/gal1.jpg
+    image_caption: "Credit: ESO/Juan Carlos Muñoz"
     title: "About Me"
     excerpt: "<p>
                     Hi there! I am a PhD student at the Max Planck Institute for Astronomy and Heidelberg University, Germany. As part of the Euclid Dark Energy Mission group, my research is focused on the discovery and characterization of the quasars in the early universe (redshift > 6). These objects are indispensable tracers to decipher the build-up of the first supermassive black holes and their host galaxies, the early structure formation, and the history of cosmic reionization.
@@ -23,6 +24,7 @@ intro:
              "
 publications:
   - image_path: /assets/images2/gal2.jpg
+    image_caption: "Credit: ESO"
     title: "Publications"
     excerpt: " Most of my publications can be found through the links below. I usually store my scientific results in [ResearchGate](https://www.researchgate.net/profile/Irham_Andika/publications) while popular articles about astronomy were posted in [XploreAstro](https://xploreastro.wordpress.com/category/astrophysics/). You can also find my refereed journal articles via NASA/ADS."
     url: "https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0"
@@ -32,6 +34,7 @@ publications:
 feature_row:
   - image_path: /assets/images2/galaxy_1.jpg
   - image_path: /assets/images2/galaxy_2.jpg
+    image_caption: "Image courtesy of NASA"
   - image_path: /assets/images2/galaxy_3.jpg
 contact:
   - title: "Want to reach me?"
