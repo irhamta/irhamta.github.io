@@ -14,7 +14,7 @@ toc_label: "On this page"
     <iframe src="https://www.youtube-nocookie.com/embed/gVk9Xslskhc?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 2. Interview with Astro Story ID: Becoming an astronomer.
     <iframe src="https://www.youtube-nocookie.com/embed/Y1RjIKm2Iu8?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-3. Discussion with Medhok Sains
+3. Discussion with Medhok Sains.
     <iframe src="https://www.youtube-nocookie.com/embed/-Okx1pusSgs?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
