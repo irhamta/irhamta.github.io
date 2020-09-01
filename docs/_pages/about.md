@@ -12,9 +12,9 @@ Hi there! I am a PhD student at the Max Planck Institute for Astronomy and Heide
 Outside astronomy, I am a Data Scientist with experience in delivering insights via data analytics and advanced machine learning for the fintech/e-commerce business, products, and market. 
 {: style="text-align: justify;"}
 
-| ![radio galaxy]({{ site.url }}{{ site.baseurl }}/assets/images2/radio_galaxy.jpg) | 
+| ![radio galaxy]({{ site.url }}{{ site.baseurl }}/assets/images2/nasa_radio_galaxy.jpg) | 
 |:--:| 
-| *Optical and radio view of massive radio galaxy Hercules. Image credit: NASA/ESO.* |
+| *Optical and radio view of massive radio galaxy Hercules. Image credit: NASA.* |
 
 A brief history of my education can be found below. 
 {: style="text-align: justify;"}
