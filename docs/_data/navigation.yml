@@ -23,10 +23,11 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-  - title: "Sample Posts"
+  - title: "Codes"
+    url: /codes/
+  - title: "Posts"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+
 
 # sidebar navigation list sample
 sidebar-sample:

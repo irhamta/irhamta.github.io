@@ -33,5 +33,6 @@ This led us to the discovery of a new quasar at redshift = 6.34 which shows very
 ## List of Publications
 
 Most of my publications can be found through the links below. I usually store my scientific results in [ResearchGate](https://www.researchgate.net/profile/Irham_Andika/publications) while popular articles about astronomy were posted in [XploreAstro](https://xploreastro.wordpress.com/category/astrophysics/). You can also find my refereed journal articles via the SAO/NASA Astrophysics Data System (ADS).
+{: style="text-align: justify;"}
 
 [Link to ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0){: .btn .btn--info}
