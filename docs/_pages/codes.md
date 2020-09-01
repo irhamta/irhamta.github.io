@@ -1,7 +1,7 @@
 ---
 permalink: /codes/
 title: "Codes"
-excerpt: "Codes repository page."
+excerpt: "Irham's codes repository page."
 last_modified_at: 2020-08-01T00:00:00-04:00
 toc: true
 ---
