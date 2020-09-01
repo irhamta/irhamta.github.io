@@ -26,7 +26,7 @@ My previous works include the study of type 1 AGNs by using SDSS spectra and com
 As part of my research, I've also been involved in the LOFAR radio survey project. The aim of this study is to characterize radio AGNs by using the brand new observations from LOFAR. By constructing the radio AGNs luminosity function, we can study the different modes of the black hole accretion out to unprecedented distances, providing critical constraints on the models of black hole formation and AGNs unification theories. The result is presented in this [paper](https://iopscience.iop.org/article/10.1088/1742-6596/1231/1/012005).
 {: style="text-align: justify;"}
 
-## Probing the Nature of High Redshift Weak Emission Line Quasars
+## Supermassive Black Holes and Galaxies in the Early Universe
 
 So far, the currently known number of quasars beyond redshift 6.5 is very small. To find these early quasars is therefore paramount for progress in this field. Last year, we dove directly into selecting the quasar candidates using unexplored data from the Pan-STARRS and unWISE. Statistical methods were applied to generate well-vetted list of candidates and infer their purity. Some of them have been spectroscopically followed up with 6.5m--Magellan/FIRE and 8.1m--Gemini/GNIRS. 
 {: style="text-align: justify;"}
