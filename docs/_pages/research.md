@@ -2,6 +2,9 @@
 permalink: /research/
 title: "Research"
 excerpt: "Irham's research summary page."
+header:
+  image: /assets/images2/eso_alma.jpg
+  caption: "Credit: ESO/S. Guisard"
 last_modified_at: 2020-08-01T00:00:00-04:00
 toc: true
 ---
@@ -22,7 +25,7 @@ My previous works include the study of type 1 AGNs by using SDSS spectra and com
 
 | ![radio galaxy]({{ site.url }}{{ site.baseurl }}/assets/images2/eso_quasar_2.jpg) | 
 |:--:| 
-| *Artist's impression shows the surroundings of a supermassive black hole. Image credit: ESO/L. Calçada.* |
+| *Artist's impression shows the surroundings of a supermassive black hole. Image credit: ESO/M. Kornmesser.* |
 
 As part of my research, I've also been involved in the LOFAR radio survey project. The aim of this study is to characterize radio AGNs by using the brand new observations from LOFAR. By constructing the radio AGNs luminosity function, we can study the different modes of the black hole accretion out to unprecedented distances, providing critical constraints on the models of black hole formation and AGNs unification theories. The result is presented in this [paper](https://iopscience.iop.org/article/10.1088/1742-6596/1231/1/012005).
 {: style="text-align: justify;"}

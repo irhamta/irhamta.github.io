@@ -2,6 +2,9 @@
 permalink: /about/
 title: "About"
 excerpt: "Irham's about page."
+header:
+  image: /assets/images2/eso_paranal.jpg
+  caption: "Credit: ESO/H.H. Heyer"
 last_modified_at: 2020-08-01T00:00:00-04:00
 toc: true
 ---
@@ -12,9 +15,9 @@ Hi there! I am a PhD student at the Max Planck Institute for Astronomy and Heide
 Outside astronomy, I am a Data Scientist with experience in delivering insights via data analytics and advanced machine learning for the fintech/e-commerce business, products, and market. 
 {: style="text-align: justify;"}
 
-| ![radio galaxy]({{ site.url }}{{ site.baseurl }}/assets/images2/nasa_radio_galaxy.jpg) | 
+| ![paranal expedition]({{ site.url }}{{ site.baseurl }}/assets/images2/eso_people.jpg) | 
 |:--:| 
-| *Optical and radio view of massive radio galaxy Hercules. Image credit: NASA.* |
+| *The stars within our grasp. Image credit: ESO/B. Tafreshi.* |
 
 A brief history of my education can be found below. 
 {: style="text-align: justify;"}

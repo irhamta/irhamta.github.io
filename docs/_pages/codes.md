@@ -2,6 +2,9 @@
 permalink: /codes/
 title: "Codes"
 excerpt: "Irham's codes repository page."
+header:
+  image: /assets/images2/eso_apex.jpg
+  caption: "Credit: R. Wesson/ESO"
 last_modified_at: 2020-08-01T00:00:00-04:00
 toc: true
 ---
@@ -45,7 +48,7 @@ Here you can find some of the scientific codes that I've used and developed.
 
 | ![ANNz2]({{ site.url }}{{ site.baseurl }}/assets/images2/annz_hist.png) |
 |:--:| 
-| *Example of photo-z caculation result compared to spectroscopic redshift values* |
+| *Example of photo-z caculation result compared to spectroscopic redshift values.* |
 
 Here we utilize the code to estimate our AGNs photo-z and determine their luminosity function in our work regarding [Cosmic Evolution of Nearby Radio Active Galactic Nuclei](https://doi.org/10.1088/1742-6596/1231/1/012005). The forked and modified code is available for download at <https://github.com/irhamta/ANNZ>.
 {: style="text-align: justify;"}
