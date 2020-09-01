@@ -14,7 +14,7 @@ Outside astronomy, I am a Data Scientist with experience in delivering insights 
 
 | ![radio galaxy]({{ site.url }}{{ site.baseurl }}/assets/images2/radio_galaxy.jpg) | 
 |:--:| 
-| *Optical and radio view of massive radio galaxy Hercules. Image Credit: NASA/ESO.* |
+| *Optical and radio view of massive radio galaxy Hercules. Image credit: NASA/ESO.* |
 
 A brief history of my education can be found below. 
 {: style="text-align: justify;"}

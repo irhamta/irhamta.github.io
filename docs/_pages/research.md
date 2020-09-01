@@ -12,7 +12,7 @@ My research interest includes the observational study of the active galactic nuc
 
 | ![accreting black hole]({{ site.url }}{{ site.baseurl }}/assets/images2/accreting_black_hole.jpg) |
 |:--:| 
-| *Accreting supermassive black hole at the center of AGN. Image credits: NASA/ESO.* |
+| *Accreting supermassive black hole at the center of AGN. Image credit: NASA/ESO.* |
 
 My previous works include the study of type 1 AGNs by using SDSS spectra and combined with multiwavelength catalogs (ROSAT, GALEX, 2MASS, FIRST, etc.). Some of these objects are then observed further with MRES echelle spectrograph in TNO 2.4 m telescope (Thailand). By utilizing these rich datasets, we can explore type 1 AGNs population statistical properties and understand the physics behind emission lines (i.e. the Baldwin effect and eigenvector 1 correlation). We can also investigate the feedback mechanism by radiation and jets, and examined the physical trends (e.g. mass, accretion rate, metallicity, orientation, ionization parameter, etc.) in the proposed "H-R diagram" for type 1 AGN. More information can be found in our [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/asna.202013697).
 {: style="text-align: justify;"}
@@ -21,7 +21,7 @@ My previous works include the study of type 1 AGNs by using SDSS spectra and com
 
 | ![radio galaxy]({{ site.url }}{{ site.baseurl }}/assets/images2/radio_galaxy.jpg) | 
 |:--:| 
-| *Optical and radio view of massive radio galaxy Hercules. Image Credit: NASA/ESO.* |
+| *Optical and radio view of massive radio galaxy Hercules. Image credit: NASA/ESO.* |
 
 As part of my research, I've also been involved in the LOFAR radio survey project. The aim of this study is to characterize radio AGNs by using the brand new observations from LOFAR. By constructing the radio AGNs luminosity function, we can study the different modes of the black hole accretion out to unprecedented distances, providing critical constraints on the models of black hole formation and AGNs unification theories. The result is presented in this [paper](https://iopscience.iop.org/article/10.1088/1742-6596/1231/1/012005).
 {: style="text-align: justify;"}
