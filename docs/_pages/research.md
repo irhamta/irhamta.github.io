@@ -10,14 +10,14 @@ toc: true
 My research interest includes the observational study of the active galactic nuclei (AGNs) and their host galaxies. The central engine of AGNs is powered by the accretion of matter (in the form of the accretion disk) into the supermassive black hole. The produced energy is then released as radiation, winds, and/or jets. The primary focus of this work is to investigate the origin, physical processes, and evolution of these objects.
 {: style="text-align: justify;"}
 
-![accreting black hole image](/assets/images2/accreting_black_hole.jpg "Accreting supermassive black hole at the center of AGN")
+![accreting black hole image](/assets/images2/accreting_black_hole.jpg "Accreting supermassive black hole at the center of AGN. Image credits: NASA and ESO.")
 
 My previous works include the study of type 1 AGNs by using SDSS spectra and combined with multiwavelength catalogs (ROSAT, GALEX, 2MASS, FIRST, etc.). Some of these objects are then observed further with MRES echelle spectrograph in TNO 2.4 m telescope (Thailand). By utilizing these rich datasets, we can explore type 1 AGNs population statistical properties and understand the physics behind emission lines (i.e. the Baldwin effect and eigenvector 1 correlation). We can also investigate the feedback mechanism by radiation and jets, and examined the physical trends (e.g. mass, accretion rate, metallicity, orientation, ionization parameter, etc.) in the proposed "H-R diagram" for type 1 AGN. More information can be found in our [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/asna.202013697).
 {: style="text-align: justify;"}
 
 ## Cosmic Evolution of Radio AGNs
 
-![image of radio galaxy](/assets/images2/radio_galaxy.jpg "Optical and radio view of massive radio galaxy Hercules A")	
+![image of radio galaxy](/assets/images2/radio_galaxy.jpg "Optical and radio view of massive radio galaxy Hercules A. Image credits: NASA and ESO.")	
 
 As part of my research, I've also been involved in the LOFAR radio survey project. The aim of this study is to characterize radio AGNs by using the brand new observations from LOFAR. By constructing the radio AGNs luminosity function, we can study the different modes of the black hole accretion out to unprecedented distances, providing critical constraints on the models of black hole formation and AGNs unification theories. The result is presented in this [paper](https://iopscience.iop.org/article/10.1088/1742-6596/1231/1/012005).
 {: style="text-align: justify;"}
@@ -32,6 +32,6 @@ This led us to the discovery of a new quasar at redshift = 6.34 which shows very
 
 ## List of Publications
 
-Most of my publications can be found through the links below. I usually store my scientific results in [ResearchGate](https://www.researchgate.net/profile/Irham_Andika/publications) while popular articles about astronomy were posted in [XploreAstro](https://xploreastro.wordpress.com/category/astrophysics/). You can also find my refereed journal articles via NASA/ADS.
+Most of my publications can be found through the links below. I usually store my scientific results in [ResearchGate](https://www.researchgate.net/profile/Irham_Andika/publications) while popular articles about astronomy were posted in [XploreAstro](https://xploreastro.wordpress.com/category/astrophysics/). You can also find my refereed journal articles via the SAO/NASA Astrophysics Data System (ADS).
 
-[Link to NASA/ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0){: .btn .btn--info}
+[Link to ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0){: .btn .btn--info}

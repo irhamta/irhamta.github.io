@@ -6,11 +6,11 @@ last_modified_at: 2020-08-01T00:00:00-04:00
 toc: true
 ---
 
-Hi there! I am a PhD student at the Max Planck Institute for Astronomy and Heidelberg University, Germany. As part of the Euclid Dark Energy Mission group, my research is focused on the discovery and characterization of the quasars in the early universe (redshift > 6). These objects are indispensable tracers to understand the growth of the supermassive black holes, their role in cosmic reionization, and the environments where they live in, when the universe was still very young.
+Hi there! I am a PhD student at the Max Planck Institute for Astronomy and Heidelberg University, Germany. As part of the Euclid Dark Energy Mission group, my research is focused on the discovery and characterization of the quasars in the early universe (redshift > 6). These objects are indispensable tracers to decipher the build-up of the first supermassive black holes and their host galaxies, the early structure formation, and the history of cosmic reionization.
 
 Outside astronomy, I am a Data Scientist with experience in delivering insights via data analytics and advanced machine learning for the fintech/e-commerce business, products, and market. 
 
-![radio galaxy image](/assets/images2/radio_galaxy.jpg "Optical and radio view of massive radio galaxy Hercules")
+![radio galaxy](/assets/images2/radio_galaxy.jpg "Optical and radio view of massive radio galaxy Hercules. Credits: NASA and ESO.")
 
 A brief history of my education can be found below. 
 

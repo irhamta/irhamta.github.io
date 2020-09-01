@@ -7,14 +7,15 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images2/ESO_Centaurus_A.jpg
   actions:
-    - label: "Explore"
+    - label: "<i class='fas fa-rocket'></i> Explore"
       url: "#contact"
-excerpt: "Hello! I am an astronomer who works on deciphering the build-up of the first active galaxies, the early structure formation, and the history of cosmic reionization."
+  caption: "Image Credits: NASA and ESO"
+excerpt: "Observational Astronomer and Experienced Data Scientist"
 intro: 
   - image_path: /assets/images2/gal1.jpg
     title: "About Me"
     excerpt: "<p>
-                    Currently, I am a PhD student at the Max Planck Institute for Astronomy and Heidelberg University, Germany. As part of the Euclid Dark Energy Mission group, my research is focused on the discovery and characterization of the quasars in the early universe (redshift > 6). These objects are indispensable tracers to understand the growth of the supermassive black holes, their role in cosmic reionization, and the environments where they live in, when the universe was still very young.
+                    Hi there! I am a PhD student at the Max Planck Institute for Astronomy and Heidelberg University, Germany. As part of the Euclid Dark Energy Mission group, my research is focused on the discovery and characterization of the quasars in the early universe (redshift > 6). These objects are indispensable tracers to decipher the build-up of the first supermassive black holes and their host galaxies, the early structure formation, and the history of cosmic reionization.
 			        <br><br>
 			        Outside astronomy, I am a Data Scientist with experience in delivering insights via data analytics and advanced machine learning for the fintech/e-commerce business, products, and market.
 			        <br>

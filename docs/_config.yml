@@ -13,15 +13,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Irham Taufik Andika"
 title_separator          : "-"
-subtitle                 : "Astonomer with unlimited curiosity!"
+subtitle                 : 
 name                     : &name "Irham Taufik Andika" # &name is a YAML anchor which can be *referenced later
-description              : &description "Astonomer with unlimited curiosity!"
+description              : &description "Personal website of Irham Taufk Andika. I'm an Astonomer with unlimited curiosity!"
 url                      : https://irhamta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "irhamta/pweb"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : /assets/images2/galaxy_icon.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Irham Taufik Andika | Home" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -57,7 +57,7 @@ algolia:
     - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : "5OzXF2sE1c53pNOoqs62S327bcHUYJbwuQpjvmAMJLw" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -83,7 +83,7 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
+    tracking_id          : "UA-107483731-1" # Replace this with your ID, or delete
     anonymize_ip         : true
 
 
@@ -92,14 +92,11 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images2/profile2.jpg"
   bio              : "Astronomer who tries to understand the growth of supermassive black holes, cosmic reionization, and physics of early universe."
-  location         : "Heidelberg, Germany"
+  location         : "Heidelberg, DE"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/irham-taufik-andika/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/irhamta"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/irhamta"
@@ -111,9 +108,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/irhamta"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/irham-taufik-andika/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/irhamta"
