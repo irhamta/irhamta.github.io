@@ -12,7 +12,7 @@ header:
   caption: "Credit: ESO"
 excerpt: "Observational Astronomer and Experienced Data Scientist"
 intro: 
-  - image_path: /assets/images2/gal1.jpg
+  - image_path: /assets/images2/eso_galaxy_1.jpg
     image_caption: "Credit: ESO/Juan Carlos Muñoz"
     title: "About Me"
     excerpt: "<p>
@@ -23,7 +23,7 @@ intro:
 		        </p>
              "
 publications:
-  - image_path: /assets/images2/gal2.jpg
+  - image_path: /assets/images2/eso_galaxy_2.jpg
     image_caption: "Credit: ESO"
     title: "Publications"
     excerpt: " Most of my publications can be found through the links below. I usually store my scientific results in [ResearchGate](https://www.researchgate.net/profile/Irham_Andika/publications) while popular articles about astronomy were posted in [XploreAstro](https://xploreastro.wordpress.com/category/astrophysics/). You can also find my refereed journal articles via NASA/ADS."
@@ -32,10 +32,10 @@ publications:
     btn_class: "btn--info"
 
 feature_row:
-  - image_path: /assets/images2/galaxy_1.jpg
-  - image_path: /assets/images2/galaxy_2.jpg
+  - image_path: /assets/images2/nasa_galaxy_1.jpg
+  - image_path: /assets/images2/nasa_galaxy_2.jpg
+  - image_path: /assets/images2/nasa_galaxy_3.jpg
     image_caption: "Image courtesy of NASA"
-  - image_path: /assets/images2/galaxy_3.jpg
 contact:
   - title: "Want to reach me?"
     excerpt: 'If you have any question about my research, articles, or codes, feel free to contact me via this email. I can also be contacted informally through my social media below.'
