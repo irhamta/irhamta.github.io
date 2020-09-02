@@ -9,15 +9,24 @@ last_modified_at: 2020-08-01T00:00:00-04:00
 toc: true
 ---
 
+## Professional Experience
+
 Hi there! I am a PhD student at the Max Planck Institute for Astronomy and Heidelberg University, Germany. As part of the Euclid Dark Energy Mission group, my research is focused on the discovery and characterization of the quasars in the early universe (redshift > 6). These objects are indispensable tracers to decipher the build-up of the first supermassive black holes and their host galaxies, the early structure formation, and the history of cosmic reionization.
 {: style="text-align: justify;"}
 
-Outside astronomy, I am a Data Scientist with experience in delivering insights via data analytics and advanced machine learning for the fintech/e-commerce business, products, and market. 
+{: style="text-align: justify;"}
+Before coming to the Germany, I worked as a Data Scientist at two startups. The first one is [Cermati.com](https://www.cermati.com/tentang-cermati), a technology startup that engages in the Indonesian financial technology area. The second one is a fast-growing tech startup with a mission to break the highly inefficient home & living industry named [Dekoruma](https://www.dekoruma.com/artikel/2650/about-us). My responsibilities include:
+* Analyze data from various resources to solve problems and deliver insights about the business, the products, and the market.
+* Data modeling using analytic programs, machine learning, and statistical methods.
+* Recommend ways to improve the design, development, and delivery of statistical analysis, including automated approaches.
 {: style="text-align: justify;"}
 
 | ![paranal expedition]({{ site.url }}{{ site.baseurl }}/assets/images2/eso_people.jpg) | 
 |:--:| 
 | *The stars within our grasp. Image credit: ESO/B. Tafreshi.* |
+
+
+## Education
 
 A brief history of my education can be found below. 
 {: style="text-align: justify;"}
