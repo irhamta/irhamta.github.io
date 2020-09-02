@@ -41,7 +41,6 @@ publications:
     title: "Publications"
     excerpt: " Most of my publications can be found through my [research page](/research/). I usually store my scientific results in ResearchGate while popular articles about astronomy were posted in XploreAstro. You can also find my refereed journal articles via the SAO/NASA Astrophysics Data System ([ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0))."
 
-
 feature_row:
   - image_path: /assets/images2/nasa_galaxy_1.jpg
   - image_path: /assets/images2/nasa_galaxy_2.jpg
