@@ -54,7 +54,7 @@ Here we utilize the code to estimate our AGNs photo-z and determine their lumino
 {: style="text-align: justify;"}
 
 
-## Code repository
+## Code Repository
 All of my codes are publicly available and maintained on my Github pages below.
 {: style="text-align: justify;"}
 
