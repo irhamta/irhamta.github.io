@@ -8,6 +8,8 @@ toc: true
 toc_label: "On this page"
 ---
 
+Are you looking for an information regarding how is it like to be an astronomy student? Or do you want to hear some inspiring stories about studying in Germany? Watch our videos below.
+
 ## Student Stories
 
 ### 1. Studying in Germany, in collaboration with PPI Jerman.
