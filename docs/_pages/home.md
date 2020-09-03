@@ -30,8 +30,9 @@ research:
     title: "Research Interest"
     excerpt: "<ul>
                   <li>Formation and evolution of active galaxies at the early universe.</li>
-                  <li> Cosmic reionization and properties of the intergalactic medium at high redshifts.</li> 
-                  <li> Machine learning and data-driven models.</li>
+                  <li>Cosmic reionization and properties of the intergalactic medium at high redshifts.</li>
+                  <li>Photometric redshifts estimation and applications.</li>
+                  <li>Predictive analytics with machine and deep learning.</li>
               </ul>
              "
 
