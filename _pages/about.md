@@ -15,7 +15,7 @@ Hi there! I am a PhD student at the Max Planck Institute for Astronomy and Heide
 {: style="text-align: justify;"}
 
 {: style="text-align: justify;"}
-Before coming to the Germany, I worked as a Data Scientist at two startups. The first one is [Cermati.com](https://www.cermati.com/tentang-cermati), a technology startup that engages in the Indonesian financial technology area. The second one is a fast-growing tech startup with a mission to break the highly inefficient home & living industry named [Dekoruma](https://www.dekoruma.com/artikel/2650/about-us). My responsibilities include:
+Before coming to Germany, I worked as a Data Scientist at two startups. The first one is [Cermati.com](https://www.cermati.com/tentang-cermati), a technology startup that engages in the Indonesian financial technology area. The second one is a fast-growing tech startup with a mission to break the highly inefficient home & living industry named [Dekoruma](https://www.dekoruma.com/artikel/2650/about-us). My responsibilities include:
 * Analyze data from various resources to solve problems and deliver insights about the business, the products, and the market.
 * Data modeling using analytic programs, machine learning, and statistical methods.
 * Recommend ways to improve the design, development, and delivery of statistical analysis, including automated approaches.
@@ -33,18 +33,18 @@ A brief history of my education can be found below.
 
 ### Ph.D. in Astronomy
 2018 - now, Max Planck Institute for Astronomy and Heidelberg University, Germany \
-Project: *The Search for (Gravitationally Lensed) Quasars at the Early Universe with Euclid and Other Surveys* \
-Advised by [Knud Jahnke](https://www.mpia.de/homes/jahnke/)
+Project: *The Search for Gravitationally Lensed Quasars at the Early Universe with Euclid and Other Surveys* \
+Advised by [Dr. Knud Jahnke](https://www.mpia.de/homes/jahnke/)
 {: style="text-align: justify;"}
 
 ### M.Sc. in Astronomy
 2016 - 2017, Bandung Institute of Technology, Indonesia \
-Thesis: [Study of Double-Peaked Emission Lines AGN as Binary AGN Candidates](https://www.researchgate.net/publication/320056967_Study_of_Double-Peaked_Emission_Lines_AGN_as_Binary_AGN_Candidate) \
-Advised by [M. Ikbal Arifyanto](https://www.itb.ac.id/staff/view/mochamad-ikbal-arifyanto-see)
+Thesis: [Study of Double-Peaked Lines Active Galactic Nucleus (AGN) as Binary AGN Candidate](https://www.researchgate.net/publication/320056967_Study_of_Double-Peaked_Emission_Lines_AGN_as_Binary_AGN_Candidate) \
+Advised by [Dr. M. Ikbal Arifyanto](https://www.itb.ac.id/staff/view/mochamad-ikbal-arifyanto-see)
 {: style="text-align: justify;"}
 
 ### B.Sc. in Astronomy
 2012 - 2016, Bandung Institute of Technology, Indonesia \
-Thesis: [On the Nature of Type 1 AGN: Emission Properties and Correlations](https://www.researchgate.net/publication/306344484_On_the_Nature_of_Type_1_AGN_Emission_Properties_and_Correlations) \
-Advised by [M. Ikbal Arifyanto](https://www.itb.ac.id/staff/view/mochamad-ikbal-arifyanto-see) and [Wolfram Kollatschny](https://www.astro.physik.uni-goettingen.de/~wkollat/)
+Thesis: [On the Nature of Type 1 Active Galactic Nuclei: Emission Properties and Correlations](https://www.researchgate.net/publication/306344484_On_the_Nature_of_Type_1_AGN_Emission_Properties_and_Correlations) \
+Advised by [Dr. M. Ikbal Arifyanto](https://www.itb.ac.id/staff/view/mochamad-ikbal-arifyanto-see) and [Prof. Dr. Wolfram Kollatschny](https://www.astro.physik.uni-goettingen.de/~wkollat/)
 {: style="text-align: justify;"}
