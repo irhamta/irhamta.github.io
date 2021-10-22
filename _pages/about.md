@@ -11,7 +11,8 @@ toc: true
 
 ## Professional Experience
 
-Hi there! I am a PhD student at the Max Planck Institute for Astronomy and Heidelberg University, Germany. As part of the Euclid Dark Energy Mission group, my research is focused on the discovery and characterization of the quasars in the early universe (redshift > 6). These objects are indispensable tracers to decipher the build-up of the first supermassive black holes and their host galaxies, the early structure formation, and the history of cosmic reionization.
+Hi there! I am a Ph.D. student at the Max Planck Institute for Astronomy and actively involved in Euclid Consortium's Primeval Universe Science Working Group. 
+Together, we develop the strategy to find and characterize quasars and galaxies in the early universe.
 {: style="text-align: justify;"}
 
 {: style="text-align: justify;"}
@@ -32,19 +33,19 @@ A brief history of my education can be found below.
 {: style="text-align: justify;"}
 
 ### Ph.D. in Astronomy
-2018 - now, Max Planck Institute for Astronomy and Heidelberg University, Germany \
-Project: *The Search for Gravitationally Lensed Quasars at the Early Universe with Euclid and Other Surveys* \
-Advised by [Dr. Knud Jahnke](https://www.mpia.de/homes/jahnke/)
+2018 -- now; Max Planck Institute for Astronomy, Germany \
+Project: *The Search for Gravitationally Lensed Quasars in the Early Universe with Euclid and Other Surveys* \
+Advised by Dr. Knud [Jahnke](https://www.mpia.de/homes/jahnke/)
 {: style="text-align: justify;"}
 
 ### M.Sc. in Astronomy
-2016 - 2017, Bandung Institute of Technology, Indonesia \
-Thesis: [Study of Double-Peaked Lines Active Galactic Nucleus (AGN) as Binary AGN Candidate](https://www.researchgate.net/publication/320056967_Study_of_Double-Peaked_Emission_Lines_AGN_as_Binary_AGN_Candidate) \
-Advised by [Dr. M. Ikbal Arifyanto](https://www.itb.ac.id/staff/view/mochamad-ikbal-arifyanto-see)
+2016 -- 2017; Bandung Institute of Technology, Indonesia \
+Thesis: *Study of Double-Peaked Lines Active Galactic Nucleus (AGN) as Binary AGN Candidate* -- [[link]](https://www.researchgate.net/publication/320056967_Study_of_Double-Peaked_Emission_Lines_AGN_as_Binary_AGN_Candidate) \
+Advised by Dr. M. Ikbal [Arifyanto](https://www.itb.ac.id/staff/view/mochamad-ikbal-arifyanto-see)
 {: style="text-align: justify;"}
 
 ### B.Sc. in Astronomy
-2012 - 2016, Bandung Institute of Technology, Indonesia \
-Thesis: [On the Nature of Type 1 Active Galactic Nuclei: Emission Properties and Correlations](https://www.researchgate.net/publication/306344484_On_the_Nature_of_Type_1_AGN_Emission_Properties_and_Correlations) \
-Advised by [Dr. M. Ikbal Arifyanto](https://www.itb.ac.id/staff/view/mochamad-ikbal-arifyanto-see) and [Prof. Dr. Wolfram Kollatschny](https://www.astro.physik.uni-goettingen.de/~wkollat/)
+2012 -- 2016; Bandung Institute of Technology, Indonesia \
+Thesis: *On the Nature of Type 1 Active Galactic Nuclei: Emission Properties and Correlations* -- [[link]](https://www.researchgate.net/publication/306344484_On_the_Nature_of_Type_1_AGN_Emission_Properties_and_Correlations) \
+Advised by Dr. M. Ikbal [Arifyanto](https://www.itb.ac.id/staff/view/mochamad-ikbal-arifyanto-see) and Prof. Wolfram [Kollatschny](https://www.astro.physik.uni-goettingen.de/~wkollat/)
 {: style="text-align: justify;"}
