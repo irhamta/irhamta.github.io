@@ -11,12 +11,12 @@ toc: true
 
 ## Professional Experience
 
-Hi there! I am a Ph.D. student at the Max Planck Institute for Astronomy and actively involved in Euclid Consortium's Primeval Universe Science Working Group. 
+Hi there! I am a Ph.D. student at the [Max Planck Institute for Astronomy](http://www.mpia.de/en) and actively involved in [Euclid Consortium](https://www.euclid-ec.org/)'s Primeval Universe Science Working Group. 
 Together, we develop the strategy to find and characterize quasars and galaxies in the early universe.
 {: style="text-align: justify;"}
 
 {: style="text-align: justify;"}
-Before coming to Germany, I worked as a Data Scientist at two startups. The first one is [Cermati.com](https://www.cermati.com/tentang-cermati), a technology startup that engages in the Indonesian financial technology area. The second one is a fast-growing tech startup with a mission to break the highly inefficient home & living industry named [Dekoruma](https://www.dekoruma.com/artikel/2650/about-us). My responsibilities include:
+Before coming to Germany, I worked as a **Data Scientist** at two startups. The first one is [Cermati](https://www.cermati.com/tentang-cermati), a technology startup that engages in the Indonesian financial technology area. The second one is a fast-growing tech startup with a mission to break the highly inefficient home & living industry named [Dekoruma](https://www.dekoruma.com/artikel/2650/about-us). My responsibilities include:
 * Analyze data from various resources to solve problems and deliver insights about the business, the products, and the market.
 * Data modeling using analytic programs, machine learning, and statistical methods.
 * Recommend ways to improve the design, development, and delivery of statistical analysis, including automated approaches.
