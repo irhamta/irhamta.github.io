@@ -8,7 +8,7 @@ toc: true
 toc_label: "On this page"
 ---
 
-Are you looking for an information regarding how is it like to be an astronomy student? Or do you want to hear some inspiring stories about studying in Germany? Watch our videos below.
+Are you looking for a piece of information regarding how is it like to be an astronomy student? Or do you want to hear some inspiring stories about studying in Germany? Watch our videos below.
 
 ## Student Stories
 
@@ -18,7 +18,8 @@ Are you looking for an information regarding how is it like to be an astronomy s
     {% include video id="Y1RjIKm2Iu8" provider="youtube" %}
 ### 3. Discussion with Medhok Sains.
     {% include video id="-Okx1pusSgs" provider="youtube" %}
-
+### 4. Discussion with Indonesia Meroket.
+    {% include video id="dx-s7mCG1Mg" provider="youtube" %}
 
 ## Participation in Formal Jerman Berbincang
 
