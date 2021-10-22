@@ -27,6 +27,6 @@ For managing the papers that I've read, I usually use [Mendeley](https://www.men
 
 ## Useful websites
 {: style="text-align: justify;"}
-1. ArXiv discussions at [Vox Charta](https://harvard.voxcharta.org/).
+1. ArXiv discussions at [Benty-fields](https://www.benty-fields.com/daily_arXiv).
 2. Tips and tricks for professional astronomers at [AstroBetter](https://www.astrobetter.com/).
 3. Astronomy related jobs list at [AAS](https://jobregister.aas.org/).
