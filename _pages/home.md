@@ -15,7 +15,7 @@ excerpt: "Observational Astronomer and Experienced Data Scientist"
 intro: 
   - title: "About Me"
     excerpt: "<p>
-                    Hi there! I am a Ph.D. student at the Max Planck Institute for Astronomy and part of the Euclid Dark Energy Mission. My research focuses on the discovery and characterization of the quasars and in the early universe.
+                    Hi there! I am a Ph.D. student at the Max Planck Institute for Astronomy and part of the Euclid Dark Energy Mission. My research focuses on the discovery and characterization of the quasars in the early universe.
                     These objects are indispensable tracers to decipher the build-up of the first supermassive black holes and their host galaxies, the early structure formation, and the history of cosmic reionization.
 			        <br><br>
 			        Outside astronomy, I am a Data Scientist with experience in delivering insights via data analytics and advanced machine learning for the fintech/e-commerce business, products, and market.
