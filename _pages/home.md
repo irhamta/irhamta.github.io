@@ -10,7 +10,7 @@ header:
     - label: "<i class='fas fa-rocket'></i> Explore"
       url: "#contact"
   caption: "Credit: ESO"
-excerpt: "Observational Astronomer and Experienced Data Scientist"
+excerpt: "Observational Astronomer and Data Scientist"
 
 intro: 
   - title: "About Me"
@@ -22,7 +22,7 @@ intro:
 		       </p>
              "
     url: "/about/"
-    btn_label: "Read More"
+    btn_label: "<i class='fas fa-book'></i> Read My Bio"
     btn_class: "btn--info"
 
 research:
@@ -41,7 +41,12 @@ publications:
   - image_path: /assets/images2/eso_galaxy_2.jpg
     image_caption: "Credit: ESO"
     title: "Publications"
-    excerpt: " Most of my publications can be found through my [research page](/research/). I usually store my scientific results in ResearchGate while popular articles about astronomy were posted in XploreAstro. You can also find my refereed journal articles via the SAO/NASA Astrophysics Data System ([ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0))."
+    excerpt: " Most of my publications can be found through my research page. 
+    I usually store my scientific results in ResearchGate while popular articles about astronomy were posted in XploreAstro. 
+    You can also find my refereed journal articles via the SAO/NASA Astrophysics Data System ([ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0))."
+    url: "/research/"
+    btn_label: "<i class='fas fa-laptop'></i> Research Page"
+    btn_class: "btn--info"
 
 feature_row:
   - image_path: /assets/images2/nasa_galaxy_1.jpg
@@ -57,7 +62,7 @@ contact:
   - title: "Want to reach me?"
     excerpt: 'If you have any questions about my research, articles, or codes, feel free to contact me via this email. I can also be contacted informally through my social media below.'
     url: "mailto:andika@mpia.de"
-    btn_label: "andika@mpia.de"
+    btn_label: "<i class='fas fa-envelope'></i> andika@mpia.de"
     btn_class: "btn--info"
 ---
 
