@@ -60,4 +60,4 @@ All of my codes are publicly available and maintained on my GitHub pages below.
 
 ![coding]({{ site.url }}{{ site.baseurl }}/assets/images2/coding.jpg)
 
-[Link to GitHub](https://github.com/irhamta/){: .btn .btn--info}
+[<i class='fas fa-laptop-code'></i> Link to GitHub](https://github.com/irhamta/){: .btn .btn--info}

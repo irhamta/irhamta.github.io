@@ -23,7 +23,7 @@ intro:
   			        Outside astronomy, I am a Data Scientist with experience in delivering insights via data analytics and advanced machine learning for the fintech/e-commerce business, products, and market.
 		         </p>"
     url: "/about/"
-    btn_label: "<i class='fas fa-book'></i> Read My Bio"
+    btn_label: "<i class='fas fa-satellite-dish'></i> Read My Bio"
     btn_class: "btn--info"
 
 research:

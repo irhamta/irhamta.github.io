@@ -75,4 +75,4 @@ I usually store my scientific results in [ResearchGate](https://www.researchgate
 You can also find my refereed journal articles via the SAO/NASA Astrophysics Data System (ADS).
 {: style="text-align: justify;"}
 
-[Link to ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0){: .btn .btn--info}
+[<i class='fas fa-space-shuttle'></i> Link to ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0){: .btn .btn--info}

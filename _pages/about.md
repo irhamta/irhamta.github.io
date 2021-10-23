@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 excerpt: "Irham's about page."
 header:
   image: /assets/images2/eso_paranal.jpg
