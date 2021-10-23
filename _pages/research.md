@@ -11,7 +11,7 @@ toc: true
 
 ## On the Nature of Active Galaxies: Emission Properties and Correlations
 
-My research interest includes the observational study of the **active galactic nucleus (AGN)** and its host galaxy. The central engine of AGN is powered by the accretion of matter (in the form of the accretion disk) onto the **supermassive black hole**. The produced energy is then released as radiation, winds, and/or jets. The primary focus of this work is to investigate the origin, physical processes, and evolution of this kind of object.
+My research interest includes the observational study of the **active galactic nucleus (AGN)** and its host galaxy. The central engine of AGN is powered by the accretion of matter (in the form of the accretion disk) onto the **supermassive black hole (SMBH)**. The produced energy is then released as radiation, winds, and/or jets. The primary focus of this work is to investigate the origin, physical processes, and evolution of this kind of object.
 {: style="text-align: justify;"}
 
 | ![accreting black hole]({{ site.url }}{{ site.baseurl }}/assets/images2/eso_quasar_1.jpg) |
@@ -32,19 +32,18 @@ As part of my research, I’ve been involved in the ***LOFAR*** radio survey pro
 
 ## Supermassive Black Holes and Galaxies in the Early Universe
 **Quasars** are the most luminous non-transient sources in the universe.
-Spectroscopically, they provide important insights into the intergalactic medium properties at the **epoch of reionization**.
-They are also excellent probes for understanding the build-up of the first supermassive black holes as well as the metal enrichment of the **first galaxies** and their surroundings. 
-Identification and detailed characterization of more quasars at this epoch will provide us with better constraints on the physical properties of the universe at the end of the transition phase from neutral to ionized hydrogen.
+At high-redshifts, they can have billion-solar-mass black holes as early as < 1 Gyr after the big bang. 
+Hence, these quasars are excellent observational probes for understanding the build-up of the first SMBHs and their host galaxies, the early structure formation, and the nature of cosmic reionization.
 {: style="text-align: justify;"}
 
 | ![distant quasar]({{ site.url }}{{ site.baseurl }}/assets/images2/carnegie_distant_quasar.jpg) | 
 |:--:| 
 | *Artist's conceptions of the most distant supermassive black hole ever discovered, which is part of a quasar from just 690 million years after the Big Bang. It is surrounded by neutral hydrogen, indicating that it is from the period called the epoch of reionization, when the universe's first light sources turned on. Illustrations by Robin Dienel, provided courtesy of the Carnegie Institution for Science.* |
 
-In the current project, we dove directly into selecting the quasar candidates using unexplored data from the ***Pan-STARRS*** and ***unWISE***.
+In the current project, we dove directly into selecting the quasar candidates using unexplored data from the ***Pan-STARRS***, ***UKIRT***, and ***unWISE***.
 Statistical methods were applied to generate a well-vetted list of candidates and infer their purity. 
-Some of them have been spectroscopically followed up with ***6.5m–Magellan/FIRE*** and ***8.1m–Gemini/GNIRS***. This led us to discover <u>PSO J083+11</u>, an intriguing new quasar at redshift = 6.34, which shows weak emission lines. 
-***HST*** imaging follow-up sets a strong constraint on the gravitational lens-boosting, showing no apparent effect on the emission. 
+Some of them have been spectroscopically followed up with ***Magellan/FIRE***, ***Gemini/GNIRS***, and ***VLT/MUSE***. This led us to discover <u>PSO J083+11</u>, an intriguing quasar at redshift = 6.34, which shows weak emission lines. 
+***HST/WFC3-ACS*** imaging follow-up sets a strong constraint on the gravitational lens-boosting, showing no apparent effect on the emission. 
 Sub-millimeter observations with ***ALMA*** show that the quasar’s host galaxy has an extreme star formation rate, similar to a hyper-luminous infrared galaxy. 
 The inferred quasar lifetime measured from the proximity zone size suggests that this object belongs to an unexpected population of very young quasars, indicating lifetimes of only ~10,000 years, which poses significant challenges on the current black hole formation models.
 For details, please have a look at our paper ([Andika et al. 2020](https://ui.adsabs.harvard.edu/abs/2020arXiv200907784T/abstract)).
