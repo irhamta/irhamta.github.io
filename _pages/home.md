@@ -33,8 +33,9 @@ research:
     excerpt: "<ul>
                   <li>Formation and evolution of active galaxies in the early universe.</li>
                   <li>Cosmic reionization and properties of the intergalactic medium at high redshifts.</li>
+                  <li>Extragalactic astrophysics with gravitational lensing.</li>
                   <li>Photometric redshifts estimation and applications.</li>
-                  <li>Predictive analytics with machine and deep learning.</li>
+                  <li>Predictive analytics with the machine and deep learning.</li>
               </ul>"
 
 publications:
