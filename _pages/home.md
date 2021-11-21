@@ -49,7 +49,7 @@ publications:
     btn_label: "<i class='fas fa-laptop'></i> Research Page"
     btn_class: "btn--info"
 
-feature_row:
+images_set:
   - image_path: /assets/images2/nasa_galaxy_1.jpg
   - image_path: /assets/images2/nasa_galaxy_2.jpg
   - image_path: /assets/images2/nasa_galaxy_3.jpg
@@ -75,6 +75,6 @@ contact:
 
 {% include feature_row id="code" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="images_set" %}
 
 {% include feature_row id="contact" type="center" %}

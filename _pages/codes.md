@@ -5,7 +5,7 @@ excerpt: "Irham's codes repository page."
 header:
   image: /assets/images2/eso_apex.jpg
   caption: "Credit: R. Wesson/ESO"
-last_modified_at: 2020-08-01T00:00:00-04:00
+last_modified_at: 2021-11-21
 toc: true
 ---
 
@@ -41,9 +41,9 @@ Here you can find some of the scientific codes that I've used and developed.
 |:--:| 
 | *Example of spectral modeling by using AGN-Specfit for SDSS AGN data.* |
 
-## ANNz2 for Photo-z
+## ANNZ for Photo-z
 
-[ANNz2](https://github.com/IftachSadeh/ANNZ) is a public photometric redshift (photo-z) code that was originally developed by [Sadeh et al. (2016)](https://arxiv.org/abs/1507.00490). This code implements the artificial neural network, boosted regression trees, and other machine learning methods to estimate and generate photo-z full probability distribution functions (PDFs). It also mitigates possible problems of non-representative or incomplete spectroscopic training samples by using a weighting scheme.
+[ANNZ](https://github.com/IftachSadeh/ANNZ) is a public photometric redshift (photo-z) code that was originally developed by [Sadeh et al. (2016)](https://arxiv.org/abs/1507.00490). This code implements the artificial neural network, boosted regression trees, and other machine learning methods to estimate and generate photo-z full probability distribution functions (PDFs). It also mitigates possible problems of non-representative or incomplete spectroscopic training samples by using a weighting scheme.
 {: style="text-align: justify;"}
 
 | ![ANNz2]({{ site.url }}{{ site.baseurl }}/assets/images2/annz_hist.png) |

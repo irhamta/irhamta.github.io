@@ -5,7 +5,7 @@ excerpt: "Irham's about page."
 header:
   image: /assets/images2/eso_paranal.jpg
   caption: "Credit: ESO/H.H. Heyer"
-last_modified_at: 2020-09-01T00:00:00-04:00
+last_modified_at: 2021-11-21
 toc: true
 ---
 
@@ -29,23 +29,24 @@ Before coming to Germany, I worked as a **Data Scientist** at two startups. The 
 
 ## Education
 
-A brief history of my education can be found below. 
+A brief history of my education can be found below.
 {: style="text-align: justify;"}
 
-### Ph.D. in Astronomy
-2018 -- now; Max Planck Institute for Astronomy, Germany \
-Project: *The Search for Gravitationally Lensed Quasars in the Early Universe with Euclid and Other Surveys* \
-Advised by Dr. Knud [Jahnke](https://www.mpia.de/homes/jahnke/)
+### Ph.D. in Astronomy (2018/22)
+Max Planck Institute for Astronomy, Germany \
+and Ghent University, Belgium. \
+Thesis: *The Search for Gravitationally Lensed Quasars in the Early Universe with Euclid and Other Surveys.* \
+Advised by Dr. Knud [Jahnke](https://www.mpia.de/homes/jahnke/).
 {: style="text-align: justify;"}
 
-### M.Sc. in Astronomy
-2016 -- 2017; Bandung Institute of Technology, Indonesia \
-Thesis: *Study of Double-Peaked Lines Active Galactic Nucleus (AGN) as Binary AGN Candidate* -- [[link]](https://www.researchgate.net/publication/320056967_Study_of_Double-Peaked_Emission_Lines_AGN_as_Binary_AGN_Candidate) \
-Advised by Dr. M. Ikbal [Arifyanto](https://www.itb.ac.id/staff/view/mochamad-ikbal-arifyanto-see)
+### M.Sc. in Astronomy (2016/17)
+Bandung Institute of Technology, Indonesia. \
+Thesis: *Study of Double-Peaked Lines Active Galactic Nucleus (AGN) as Binary AGN Candidate*. -- [[link]](https://www.researchgate.net/publication/320056967_Study_of_Double-Peaked_Emission_Lines_AGN_as_Binary_AGN_Candidate) \
+Advised by Dr. M. Ikbal [Arifyanto](https://www.itb.ac.id/staff/view/mochamad-ikbal-arifyanto-see).
 {: style="text-align: justify;"}
 
-### B.Sc. in Astronomy
-2012 -- 2016; Bandung Institute of Technology, Indonesia \
-Thesis: *On the Nature of Type 1 Active Galactic Nuclei: Emission Properties and Correlations* -- [[link]](https://www.researchgate.net/publication/306344484_On_the_Nature_of_Type_1_AGN_Emission_Properties_and_Correlations) \
-Advised by Dr. M. Ikbal [Arifyanto](https://www.itb.ac.id/staff/view/mochamad-ikbal-arifyanto-see) and Prof. Wolfram [Kollatschny](https://www.astro.physik.uni-goettingen.de/~wkollat/)
+### B.Sc. in Astronomy (2012/16)
+Bandung Institute of Technology, Indonesia. \
+Thesis: *On the Nature of Type 1 Active Galactic Nuclei: Emission Properties and Correlations*. -- [[link]](https://www.researchgate.net/publication/306344484_On_the_Nature_of_Type_1_AGN_Emission_Properties_and_Correlations) \
+Advised by Dr. M. Ikbal [Arifyanto](https://www.itb.ac.id/staff/view/mochamad-ikbal-arifyanto-see) and Prof. Wolfram [Kollatschny](https://www.astro.physik.uni-goettingen.de/~wkollat/).
 {: style="text-align: justify;"}
