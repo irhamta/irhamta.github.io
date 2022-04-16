@@ -15,12 +15,11 @@ excerpt: "Observational Astronomer and Data Scientist"
 intro: 
   - title: "About Me"
     excerpt: "<p>
-                Hi there! I am a Ph.D. student at the Max Planck Institute for Astronomy and actively involved in the Euclid Dark Energy Mission. 
+                Hi there! I am a Ph.D. student at the Max Planck Institute for Astronomy and actively involved in the Euclid Dark Energy Mission.
                 <br><br>
-                My research focuses on the discovery and characterization of the quasars in the early universe.
-                These objects are indispensable tracers to decipher the build-up of the first supermassive black holes and their host galaxies, the early structure formation, and the history of cosmic reionization.
+                My research is focused on the discovery and characterization of the quasars in the early universe. These objects are indispensable tracers to decipher the build-up of the first supermassive black holes and their host galaxies, the early structure formation, and the history of cosmic reionization.
   			        <br><br>
-  			        Outside astronomy, I am a Data Scientist with experience in delivering insights via data analytics and advanced machine learning for the fintech/e-commerce business, products, and market.
+                Outside astronomy, I am a Data Scientist with experience in delivering insights via data analytics and advanced machine learning for the fintech/e-commerce business, products, and market.
 		         </p>"
     url: "/about/"
     btn_label: "<i class='fas fa-satellite-dish'></i> Read My Bio"
@@ -42,8 +41,8 @@ publications:
   - image_path: /assets/images2/eso_galaxy_2.jpg
     image_caption: "Credit: ESO"
     title: "Publications"
-    excerpt: " Most of my publications can be found through my research page. 
-    I usually store my scientific results in ResearchGate while popular articles about astronomy were posted in XploreAstro. 
+    excerpt: "Most of my publications can be found on my research page.
+    I usually store my scientific results in ResearchGate, while popular articles about astronomy were posted in XploreAstro.
     You can also find my refereed journal articles via the SAO/NASA Astrophysics Data System ([ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0))."
     url: "/research/"
     btn_label: "<i class='fas fa-laptop'></i> Research Page"
@@ -57,11 +56,11 @@ images_set:
 
 code: 
   - title: "Scientific Codes"
-    excerpt: "Some of the scientific codes that I’ve developed can be found on my [code page](/codes/)."
+    excerpt: "Some of the scientific codes that I have developed can be found on my [code page](/codes/)."
 
 contact:
   - title: "Want to reach me?"
-    excerpt: 'If you have any questions about my research, articles, or codes, feel free to contact me via this email. I can also be contacted informally through my social media below.'
+    excerpt: "If you have any questions about my research, articles, or codes, feel free to contact me via this email. I can also be contacted informally through my social media below."
     url: "mailto:andika@mpia.de"
     btn_label: "<i class='fas fa-envelope'></i> andika@mpia.de"
     btn_class: "btn--info"
