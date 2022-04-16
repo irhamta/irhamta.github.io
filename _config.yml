@@ -106,7 +106,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images2/profile2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "An astronomer who tries to understand the growth of supermassive black holes, cosmic reionization, and physics of the early universe."
+  bio              : "An astronomer who tries to understand the assembly of supermassive black holes and the early universe physics."
   location         : "Heidelberg, DE"
   email            : "andika@mpia.de"
   links:
