@@ -8,7 +8,7 @@ toc: true
 toc_label: "On this page"
 ---
 
-Are you looking for a piece of information regarding how is it like to be an astronomy student? Or do you want to hear some inspiring stories about studying in Germany? Watch our videos below.
+Are you looking for a piece of information regarding how it feels to be an astronomy student? Or do you want to hear some inspiring stories about studying in Germany? Watch our videos below.
 
 ## Student Stories
 
