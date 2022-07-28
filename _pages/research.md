@@ -54,7 +54,7 @@ A re-examination of previous selection techniques indicates a substantial bias a
 
 | ![lens training]({{ site.url }}{{ site.baseurl }}/assets/images2/fig_lensprob_test.png) | 
 |:--:| 
-| *Example of negatives (galaxies and point-sources; top) and positives (mock lenses; bottom) in the training dataset.*|
+| *Example of negatives (galaxies and point sources) and positives (mock lenses) in the training dataset.*|
 
 **Convolutional neural network (CNN)** has shown to be effective in pattern recognitions.
 Subsequently, we exploit CNN and multiband images from ***DES***, ***VHS***, and ***unWISE*** to search for **galaxy-scale strong lenses**.
