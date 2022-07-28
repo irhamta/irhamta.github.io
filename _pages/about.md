@@ -11,7 +11,7 @@ toc: true
 
 ## Professional Experience
 
-Hi there! I am a Ph.D. student at the [Max Planck Institute for Astronomy](http://www.mpia.de/en) and actively involved in the [Euclid Consortium](https://www.euclid-ec.org/) Primeval Universe Science Working Group. 
+Hi there! I am a researcher at the [Max Planck Institute for Astronomy](http://www.mpia.de/en) and actively involved in the [Euclid Consortium](https://www.euclid-ec.org/) Primeval Universe Science Working Group. 
 Together, we develop the strategy to find and characterize quasars and galaxies in the early universe.
 {: style="text-align: justify;"}
 
@@ -33,15 +33,15 @@ A brief history of my education can be found below.
 ### Ph.D. in Astronomy (2018/22)
 Max Planck Institute for Astronomy, Germany \
 and Ghent University, Belgium. \
-Thesis: *The Hunt for Lensed Quasars and Weak-Line Active Galaxies at Cosmic Dawn.* \
+Thesis: *The Hunt for Lensed Quasars and Weak-Line Active Galaxies at Cosmic Dawn* -- [[link](https://www.researchgate.net/publication/361486613_The_Hunt_for_Quasars_at_Cosmic_Dawn_Insights_into_Redshift_6_Weak-Line_Active_Galaxies_and_Deep_Learning_for_Discovering_Lensed_Sources)]. \
 Advised by Dr. Knud [Jahnke](https://www.mpia.de/homes/jahnke/) and Prof. Arjen van der [Wel](https://users.ugent.be/~avdrwel/).
 
 ### M.Sc. in Astronomy (2016/17)
 Bandung Institute of Technology, Indonesia. \
-Thesis: *Study of Double-Peaked Lines Active Galactic Nucleus (AGN) as Binary AGN Candidate* -- [[link]](https://www.researchgate.net/publication/320056967_Study_of_Double-Peaked_Emission_Lines_AGN_as_Binary_AGN_Candidate). \
+Thesis: *Study of Double-Peaked Lines Active Galactic Nucleus (AGN) as Binary AGN Candidate* -- [[link](https://www.researchgate.net/publication/320056967_Study_of_Double-Peaked_Emission_Lines_AGN_as_Binary_AGN_Candidate)]. \
 Advised by Dr. M. Ikbal [Arifyanto](https://www.itb.ac.id/staff/view/mochamad-ikbal-arifyanto-see).
 
 ### B.Sc. in Astronomy (2012/16)
 Bandung Institute of Technology, Indonesia. \
-Thesis: *On the Nature of Type 1 Active Galactic Nuclei: Emission Properties and Correlations* -- [[link]](https://www.researchgate.net/publication/306344484_On_the_Nature_of_Type_1_AGN_Emission_Properties_and_Correlations). \
+Thesis: *On the Nature of Type 1 Active Galactic Nuclei: Emission Properties and Correlations* -- [[link](https://www.researchgate.net/publication/306344484_On_the_Nature_of_Type_1_AGN_Emission_Properties_and_Correlations)]. \
 Advised by Dr. M. Ikbal [Arifyanto](https://www.itb.ac.id/staff/view/mochamad-ikbal-arifyanto-see) and Prof. Wolfram [Kollatschny](https://www.astro.physik.uni-goettingen.de/~wkollat/).
