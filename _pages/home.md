@@ -10,12 +10,12 @@ header:
     - label: "<i class='fas fa-rocket'></i> Explore"
       url: "#contact"
   caption: "Credit: ESO"
-excerpt: "Observational Astronomer and Data Scientist"
+excerpt: "Astronomer and Data Scientist"
 
 intro: 
   - title: "About Me"
     excerpt: "<p>
-                Hi there! I am a Ph.D. student at the Max Planck Institute for Astronomy and actively involved in the Euclid Dark Energy Mission.
+		Hi there! I am a researcher at the Max Planck Institute for Astronomy and actively involved in the Euclid Dark Energy Mission.
                 <br><br>
                 My research is focused on the discovery and characterization of the quasars in the early universe. These objects are indispensable tracers to decipher the build-up of the first supermassive black holes and their host galaxies, the early structure formation, and the history of cosmic reionization.
   			        <br><br>
@@ -56,7 +56,7 @@ images_set:
 
 code: 
   - title: "Scientific Codes"
-    excerpt: "Some of the scientific codes that I have developed can be found on my [code page](/codes/)."
+    excerpt: "Some of the scientific codes that I have developed can be found on my [code page](/codes/), or you can also go directly to my [GitHub](https://github.com/irhamta/) webpage."
 
 contact:
   - title: "Want to reach me?"
