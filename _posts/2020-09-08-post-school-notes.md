@@ -13,6 +13,8 @@ tags:
   - Note
 toc: true
 toc_label: "On this page"
+header:
+  teaser: assets/images2/carnegie_distant_quasar.jpg
 ---
 
 The educational material from some schools/workshops I attended during 2019-2020 can be found via this page.

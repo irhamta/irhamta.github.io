@@ -6,6 +6,8 @@ tags:
   - Media
 toc: true
 toc_label: "On this page"
+header:
+  teaser: assets/images2/eso_people.jpg
 ---
 
 Are you looking for a piece of information regarding how it feels to be an astronomy student? Or do you want to hear some inspiring stories about studying in Germany? Watch our videos below.
