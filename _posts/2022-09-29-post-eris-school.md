@@ -17,7 +17,7 @@ header:
   teaser: assets/images2/wsrt.jpg
 ---
 
-## Getting to know about radio astronomy
+## Learning Radio Astronomy
 
 {: style="text-align: justify;"}
 The European Radio Interferometry School 2022 is a one-week workshop on radio astronomy data acquisition, reduction, and analysis.
@@ -35,7 +35,7 @@ The materials covered by the lectures/tutorials includes:
 4. Choosing the most suitable array and observing plan for the proposed project.
 {: style="text-align: justify;"}
 
-## Lecture notes
+## Lecture Notes
 
 The presentation materials given during the school can be accessed in the link below.
 {: style="text-align: justify;"}
