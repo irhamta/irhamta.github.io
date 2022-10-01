@@ -11,7 +11,7 @@ toc: true
 
 ## Professional Experience
 
-Hi there! I am a researcher at the [TU Munich](https://www.tum.de/en/) and [Max Planck Institute for Astrophysics](https://www.mpa-garching.mpg.de/) in Garching.
+Hi there! I am a **Postdoctoral Fellow** at the [TU Munich](https://www.tum.de/en/) and [Max Planck Institute for Astrophysics](https://www.mpa-garching.mpg.de/) in Garching.
 My research focuses on understanding how the first black holes and galaxies assembled across cosmic time probed via distant strongly-lensed quasars.
 {: style="text-align: justify;"}
 

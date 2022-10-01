@@ -21,7 +21,7 @@ intro:
 		Assisted by <b>gravitational lensing</b>, we can probe their star formation and accretion processes in high fidelity.
 		I am also interested in modeling lens systems to constrain the nature of <b>dark matter</b> and the processes that govern <b>cosmological structure formation</b>.
   		<br><br>
-  		I completed my Ph.D. at the <a href='http://www.mpia.de/en' style='text-decoration:none'>Max Planck Institute for Astronomy</a> and <a href='https://www.ugent.be/en' style='text-decoration:none'>Ghent University</a> in 2020.
+  		I completed my Ph.D. at the <a href='http://www.mpia.de/en' style='text-decoration:none'>Max Planck Institute for Astronomy</a> and <a href='https://www.ugent.be/en' style='text-decoration:none'>Ghent University</a> in 2022.
                 Before then, I worked as a Data Scientist with experience in delivering insights via data analytics and advanced machine learning for the fintech/e-commerce business, products, and market.
 	     </p>"
     url: "/about/"
