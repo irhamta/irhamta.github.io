@@ -11,8 +11,12 @@ toc: true
 
 ## Professional Experience
 
-Hi there! I am a researcher at the [Max Planck Institute for Astronomy](http://www.mpia.de/en) and actively involved in the [Euclid Consortium](https://www.euclid-ec.org/) Primeval Universe Science Working Group. 
-Together, we develop the strategy to find and characterize quasars and galaxies in the early universe.
+Hi there! I am a researcher at the [TU Munich](https://www.tum.de/en/) and [Max Planck Institute for Astrophysics](https://www.mpa-garching.mpg.de/) in Garching.
+My research focuses on understanding how the first black holes and galaxies assembled across cosmic time probed via distant strongly-lensed quasars.
+{: style="text-align: justify;"}
+
+I previously worked at the [Max Planck Institute for Astronomy](http://www.mpia.de/en) from 2018 to 2022 and was actively involved in the [Euclid Consortium](https://www.euclid-ec.org/) Primeval Universe Science Working Group. 
+Together, we developed the strategy to find and characterize quasars and galaxies in the early universe.
 {: style="text-align: justify;"}
 
 {: style="text-align: justify;"}
