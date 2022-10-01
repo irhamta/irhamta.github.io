@@ -15,12 +15,15 @@ excerpt: "Astronomer and Data Scientist"
 intro: 
   - title: "About Me"
     excerpt: "<p>
-		Hi there! I am a researcher at the Max Planck Institute for Astronomy and actively involved in the Euclid Dark Energy Mission.
-                <br><br>
-                My research is focused on the discovery and characterization of the quasars in the early universe. These objects are indispensable tracers to decipher the build-up of the first supermassive black holes and their host galaxies, the early structure formation, and the history of cosmic reionization.
-  			        <br><br>
-                Outside astronomy, I am a Data Scientist with experience in delivering insights via data analytics and advanced machine learning for the fintech/e-commerce business, products, and market.
-		         </p>"
+		Hi there! I am a Postdoctoral Fellow at the <a href='https://www.tum.de/en/' style='text-decoration:none'>Technical University of Munich</a> and <a href='https://www.mpa-garching.mpg.de/' style='text-decoration:none'>Max Planck Institute for Astrophysics</a> in Garching.
+  		<br><br>
+		My research focuses on understanding how the first <b>black holes</b> and <b>galaxies</b> assembled across cosmic time by studying <b>high-redshift quasars</b>.
+		Assisted by <b>gravitational lensing</b>, we can probe their star formation and accretion processes in high fidelity.
+		I am also interested in modeling lens systems to constrain the nature of <b>dark matter</b> and the processes that govern <b>cosmological structure formation</b>.
+  		<br><br>
+  		I completed my Ph.D. at the <a href='http://www.mpia.de/en' style='text-decoration:none'>Max Planck Institute for Astronomy</a> and <a href='https://www.ugent.be/en' style='text-decoration:none'>Ghent University</a> in 2020.
+                Before then, I worked as a Data Scientist with experience in delivering insights via data analytics and advanced machine learning for the fintech/e-commerce business, products, and market.
+	     </p>"
     url: "/about/"
     btn_label: "<i class='fas fa-satellite-dish'></i> Read My Bio"
     btn_class: "btn--info"
@@ -56,7 +59,7 @@ images_set:
 
 code: 
   - title: "Scientific Codes"
-    excerpt: "Some of the scientific codes that I have developed can be found on my [code page](/codes/), or you can also go directly to my [GitHub](https://github.com/irhamta/) webpage."
+    excerpt: "Some of the scientific codes that I have developed can be found on my [codes](/codes/) page, or you can also go directly to my [GitHub](https://github.com/irhamta/) webpage."
 
 contact:
   - title: "Want to reach me?"
