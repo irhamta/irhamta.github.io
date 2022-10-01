@@ -45,8 +45,8 @@ publications:
     image_caption: "Credit: ESO"
     title: "Publications"
     excerpt: "Most of my publications can be found on my research page.
-    I usually store my scientific results in ResearchGate, while popular articles about astronomy were posted in XploreAstro.
-    You can also find my refereed journal articles via the SAO/NASA Astrophysics Data System ([ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0))."
+    I usually store my scientific results in ResearchGate, while popular articles about astronomy are posted in XploreAstro.
+    You can also find my refereed journal articles via the <a href='https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0' style='text-decoration:none'>SAO/NASA ADS</a>."
     url: "/research/"
     btn_label: "<i class='fas fa-laptop'></i> Research Page"
     btn_class: "btn--info"
@@ -59,7 +59,7 @@ images_set:
 
 code: 
   - title: "Scientific Codes"
-    excerpt: "Some of the scientific codes that I have developed can be found on my [codes](/codes/) page, or you can also go directly to my [GitHub](https://github.com/irhamta/) webpage."
+    excerpt: "Some of the scientific codes that I have developed can be found on my <a href='/codes/' style='text-decoration:none'>codes</a> page, or you can also go directly to my <a href='https://github.com/irhamta/' style='text-decoration:none'>GitHub</a> webpage."
 
 contact:
   - title: "Want to reach me?"
