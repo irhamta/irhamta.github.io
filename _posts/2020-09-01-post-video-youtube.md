@@ -3,7 +3,8 @@ title: "Videos on YouTube"
 categories:
   - Media
 tags:
-  - Media
+  - Video
+  - Seminar
 toc: true
 toc_label: "On this page"
 header:

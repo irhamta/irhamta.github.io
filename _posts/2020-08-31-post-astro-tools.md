@@ -3,7 +3,7 @@ title: "Useful Tools for Astronomer"
 categories:
   - Tools
 tags:
-  - Tools
+  - Code
 toc: true
 toc_label: "On this page"
 ---

@@ -5,12 +5,7 @@ categories:
   - School
 tags:
   - Lecture
-  - Study
   - Code
-  - Workshop
-  - Conference
-  - School
-  - Note
 toc: true
 toc_label: "On this page"
 header:
