@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images2/profile2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "An astronomer who tries to understand the assembly of supermassive black holes and the early universe physics."
   location         : "Munich, DE"
-  email            : "andika@mpia.de"
+  email            : "irham.andika@tum.de"
   links:
     - label: "Email"
       icon : "fas fa-fw fa-envelope-square"

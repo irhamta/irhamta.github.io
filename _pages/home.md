@@ -64,8 +64,8 @@ code:
 contact:
   - title: "Want to reach me?"
     excerpt: "If you have any questions about my research, articles, or codes, feel free to contact me via this email. I can also be contacted informally through my social media below."
-    url: "mailto:andika@mpia.de"
-    btn_label: "<i class='fas fa-envelope'></i> andika@mpia.de"
+    url: "mailto:irham.andika@tum.de"
+    btn_label: "<i class='fas fa-envelope'></i> irham.andika@tum.de"
     btn_class: "btn--info"
 ---
 
