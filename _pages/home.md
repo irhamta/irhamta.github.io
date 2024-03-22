@@ -33,7 +33,7 @@ research:
     image_caption: "Credit: ESO/Juan Carlos Muñoz"
     title: "Research Interest"
     excerpt: "<ul>
-                  <li>Formation and evolution of active galaxies in the early universe.</li>
+                  <li>Formation and evolution of active galaxies in the early Universe.</li>
                   <li>Cosmic reionization and properties of the intergalactic medium at high redshifts.</li>
                   <li>Extragalactic astrophysics with gravitational lensing.</li>
                   <li>Photometric redshifts estimation and applications.</li>
