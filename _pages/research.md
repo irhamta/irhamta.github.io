@@ -59,7 +59,7 @@ A re-examination of previous selection techniques indicates a substantial bias a
 Deep learning approaches based on the **convolutional neural network (CNN)** and **vision transformer (ViT)** architectures have shown to be effective in pattern recognition.
 Subsequently, we exploit these techniques to the multiband images from ***HSC***, ***DES***, ***UKIRT***, ***VISTA***, and ***WISE*** to search for **galaxy-scale strong lenses**.
 The training datasets are constructed by painting simulated lensed arcs over actual galaxy images to generate realistic **galaxy-quasar lens** models.
-As a result, we present new lensed quasar candidates waiting for spectroscopic confirmation ([Andika et al. 2023a](https://ui.adsabs.harvard.edu/abs/2022arXiv221114543T/abstract), [2023b](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.103A/abstract)).
+As a result, we present new lensed quasar candidates waiting for spectroscopic confirmation ([Andika et al. 2023a](https://ui.adsabs.harvard.edu/abs/2023ApJ...943..150A/abstract), [2023b](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.103A/abstract)).
 {: style="text-align: justify;"}
 
 ## Cosmic Evolution of Radio Active Galactic Nuclei
