@@ -11,7 +11,7 @@ toc: true
 
 ## On the Nature of Active Galaxies: Emission Properties and Correlations
 
-My research interest includes the observational study of the **active galactic nucleus (AGN)** to understand its origin, physical processes, and evolution. 
+My research interest includes the observational study of the **active galactic nuclei (AGNs)** to understand their origin, physical processes, and evolution. 
 AGN is powered by matter accretion onto a **supermassive black hole (SMBH)**. 
 The produced energy is usually released as radiation, winds, and jets. 
 {: style="text-align: justify;"}
@@ -27,16 +27,16 @@ More information can be found in [Andika et al. (2020)](https://onlinelibrary.wi
 {: style="text-align: justify;"}
 
 ## Supermassive Black Holes and Galaxies in the Early Universe
-**Quasars** are the most luminous non-transient sources in the universe.
+**Quasars** are the most luminous non-transient sources in the Universe.
 At high redshifts (*z* > 6), they can have billion-solar-mass black holes as early as < 1 Gyr after the Big Bang. 
 Hence, quasars are excellent probes for understanding the build-up of the first SMBHs and their host galaxies, the early structure formation, and the nature of cosmic reionization.
 {: style="text-align: justify;"}
 
 | ![distant quasar]({{ site.url }}{{ site.baseurl }}/assets/images2/carnegie_distant_quasar.jpg) | 
 |:--:| 
-| *Artist's conception of the most-distant supermassive black hole ever discovered, part of a quasar from just 690 million years after the Big Bang. This object is surrounded by neutral hydrogen, indicating that it is from the period called the epoch of reionization, when the universe's first light sources turned on. Illustrations by Robin Dienel provided courtesy of the Carnegie Institution for Science.* |
+| *Artist's conception of the most-distant supermassive black hole ever discovered, part of a quasar from just 690 million years after the Big Bang. This object is surrounded by neutral hydrogen, indicating that it is from the period called the epoch of reionization, when the Universe's first light sources turned on. Illustrations by Robin Dienel provided courtesy of the Carnegie Institution for Science.* |
 
-We currently dove directly into selecting the quasar candidates using data from ***Pan-STARRS***, ***UKIRT***, and ***unWISE***.
+We currently dove directly into selecting the quasar candidates using data from ***Pan-STARRS***, ***UKIRT***, and ***WISE***.
 Statistical methods are applied to generate a well-vetted list of candidates and infer their purity. 
 Some have been followed up with ***Magellan/FIRE***, ***Gemini/GNIRS***, and ***VLT/MUSE***, which led us to discover <u>PSO J083+11</u>, an intriguing weak-line quasar at *z* = 6.34. 
 ***HST/WFC3-ACS*** imaging shows no gravitational lensing affecting the apparent emission.
@@ -52,14 +52,14 @@ However, only one has been found so far (i.e., <u>J0439+1634</u> at *z* = 6.51).
 A re-examination of previous selection techniques indicates a substantial bias against lensed quasars.
 {: style="text-align: justify;"}
 
-| ![lens training]({{ site.url }}{{ site.baseurl }}/assets/images2/fig_lensprob_test.png) | 
+| ![lens training]({{ site.url }}{{ site.baseurl }}/assets/images2/fig_lensprob_test3.png) | 
 |:--:| 
 | *Example of negatives (galaxies and point sources) and positives (mock lenses) in the training dataset.*|
 
-**Convolutional neural network (CNN)** has shown to be effective in pattern recognition.
-Subsequently, we exploit CNN and multiband images from ***DES***, ***VHS***, and ***unWISE*** to search for **galaxy-scale strong lenses**.
+Deep learning approaches based on the **convolutional neural network (CNN)** and **vision transformer (ViT)** architectures have shown to be effective in pattern recognition.
+Subsequently, we exploit these techniques to the multiband images from ***HSC***, ***DES***, ***UKIRT***, ***VISTA***, and ***WISE*** to search for **galaxy-scale strong lenses**.
 The training datasets are constructed by painting simulated lensed arcs over actual galaxy images to generate realistic **galaxy-quasar lens** models.
-As a result, we present new lensed quasar candidates waiting for spectroscopic confirmation ([Andika et al. 2023](https://ui.adsabs.harvard.edu/abs/2022arXiv221114543T/abstract)).
+As a result, we present new lensed quasar candidates waiting for spectroscopic confirmation ([Andika et al. 2023a](https://ui.adsabs.harvard.edu/abs/2022arXiv221114543T/abstract), [2023b](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.103A/abstract)).
 {: style="text-align: justify;"}
 
 ## Cosmic Evolution of Radio Active Galactic Nuclei
