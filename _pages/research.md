@@ -42,7 +42,7 @@ Some have been followed up with ***Magellan/FIRE***, ***Gemini/GNIRS***, and ***
 ***HST/WFC3-ACS*** imaging shows no gravitational lensing affecting the apparent emission.
 Submillimeter observations with ***ALMA*** reveal that the quasar host has an extreme star formation rate. 
 The age measured from the proximity zone size suggests that this source belongs to the young quasar population with a lifetime of only ~10,000 yr, which poses significant challenges to the current black hole formation models.
-For details, please have a look at our papers ([Andika et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...903...34A/abstract), [2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220401245T/abstract)).
+For details, please have a look at our papers ([Andika et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...903...34A/abstract), [2022](https://ui.adsabs.harvard.edu/abs/2022AJ....163..251A/abstract)).
 {: style="text-align: justify;"}
 
 ## Searching for Lensed Quasars through Deep Learning
