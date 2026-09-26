@@ -9,7 +9,7 @@ tags:
 toc: true
 toc_label: "On this page"
 header:
-  teaser: assets/images2/wsrt.jpg
+  teaser: assets/images/wsrt.jpg
 ---
 
 ## Learning Radio Astronomy
@@ -18,7 +18,7 @@ The European Radio Interferometry School 2022 was a one-week workshop on radio a
 
 The lectures and tutorials covered calibration and imaging, interferometry across multiple wavelength ranges, astronomical data analysis, and observing-plan design.
 
-![Westerbork Synthesis Radio Telescope]({{ site.url }}{{ site.baseurl }}/assets/images2/wsrt.jpg)
+![Westerbork Synthesis Radio Telescope]({{ site.url }}{{ site.baseurl }}/assets/images/wsrt.jpg)
 
 *A view towards the Westerbork Synthesis Radio Telescope. Credit: Irham T. Andika.*
 

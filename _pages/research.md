@@ -2,7 +2,7 @@
 permalink: /research/
 excerpt: "Research on supermassive black holes, active galaxies, gravitational lensing, and machine learning."
 header:
-  image: /assets/images2/eso_alma.jpg
+  image: /assets/images/eso_alma.jpg
   caption: "Credit: ESO/S. Guisard"
 last_modified_at: today
 toc: true
@@ -22,7 +22,7 @@ Some of the most informative active galaxies are also among the hardest to find.
 
 This direction began with high-redshift quasars, including **PSO J083+11**, a weak-line quasar at *z* = 6.34 whose small proximity zone points to a short active lifetime. I have since expanded it toward fainter AGN populations and the time domain, to measure the frequency, duration, and contribution of different accretion states.
 
-![Distant quasar]({{ site.url }}{{ site.baseurl }}/assets/images2/carnegie_distant_quasar.jpg)
+![Distant quasar]({{ site.url }}{{ site.baseurl }}/assets/images/carnegie_distant_quasar.jpg)
 
 *Artist's impression of a quasar in the early Universe. Illustration credit: Robin Dienel, courtesy of the Carnegie Institution for Science.*
 
@@ -34,7 +34,7 @@ Strong gravitational lensing magnifies distant sources that would otherwise be d
 
 I develop methods for both **lens discovery and physical inference**. These efforts have used convolutional neural networks and vision transformers to search for strongly lensed quasars and to reconstruct lens systems and infer their physical parameters using a physics-informed generative model.
 
-![Lens-training examples]({{ site.url }}{{ site.baseurl }}/assets/images2/fig_lensprob_test3.png)
+![Lens-training examples]({{ site.url }}{{ site.baseurl }}/assets/images/fig_lensprob_test3.png)
 
 *Examples of simulated strong lenses and non-lens sources used to train the lens-discovery models.*
 

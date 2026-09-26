@@ -8,7 +8,7 @@ tags:
 toc: true
 toc_label: "On this page"
 header:
-  teaser: assets/images2/eso_alma.jpg
+  teaser: assets/images/eso_alma.jpg
 ---
 
 This page summarizes my observing programs as a principal investigator, lead observer, and co-investigator, as well as other observing experience.

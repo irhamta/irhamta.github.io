@@ -8,7 +8,7 @@ tags:
 toc: true
 toc_label: "On this page"
 header:
-  teaser: assets/images2/eso_people.jpg
+  teaser: assets/images/eso_people.jpg
 ---
 
 Are you looking for information about life as an astronomy student or inspiring stories about studying in Germany? Watch the videos below.

@@ -8,7 +8,7 @@ tags:
 toc: true
 toc_label: "On this page"
 header:
-  teaser: assets/images2/carnegie_distant_quasar.jpg
+  teaser: assets/images/carnegie_distant_quasar.jpg
 ---
 
 The educational materials from schools and workshops I attended during 2019–2020 are available below.

@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images2/eso_centaurus_a.jpg
+  overlay_image: /assets/images/eso_centaurus_a.jpg
   actions:
     - label: "<i class='fas fa-rocket'></i> Explore"
       url: "#about"
@@ -31,7 +31,7 @@ intro:
     btn_class: "btn--info"
 
 research:
-  - image_path: /assets/images2/eso_galaxy_1.jpg
+  - image_path: /assets/images/eso_galaxy_1.jpg
     alt: "Galaxy in the early Universe"
     image_caption: "Credit: ESO/Juan Carlos Muñoz"
     title: "Research Interest"
@@ -42,7 +42,7 @@ research:
       - Machine learning for rare-object discovery and physical inference in large-scale astronomical surveys.
 
 publications:
-  - image_path: /assets/images2/eso_galaxy_2.jpg
+  - image_path: /assets/images/eso_galaxy_2.jpg
     alt: "Distant galaxy"
     image_caption: "Credit: ESO"
     title: "Publications"
@@ -56,11 +56,11 @@ publications:
     btn_class: "btn--info"
 
 images_set:
-  - image_path: /assets/images2/nasa_galaxy_1.jpg
+  - image_path: /assets/images/nasa_galaxy_1.jpg
     alt: "Galaxy observed by NASA"
-  - image_path: /assets/images2/nasa_galaxy_2.jpg
+  - image_path: /assets/images/nasa_galaxy_2.jpg
     alt: "Galaxy observed by NASA"
-  - image_path: /assets/images2/nasa_galaxy_3.jpg
+  - image_path: /assets/images/nasa_galaxy_3.jpg
     alt: "Galaxy observed by NASA"
     image_caption: "Image courtesy of NASA"
 

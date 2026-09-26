@@ -2,7 +2,7 @@
 permalink: /about/
 excerpt: "Irham's about page."
 header:
-  image: /assets/images2/eso_paranal.jpg
+  image: /assets/images/eso_paranal.jpg
   caption: "Credit: ESO/H.H. Heyer"
 last_modified_at: today
 toc: true
@@ -16,7 +16,7 @@ My background spans both academia and industry. I studied astronomy in Indonesia
 
 Over the years, I have studied high-redshift quasars, searched for strong gravitational lenses, and developed machine learning methods to extract physical information from multimodal data. These projects gradually expanded my focus from individual rare objects to their role in the broader population of accreting black holes. Today, I contribute to the [Euclid mission](https://www.euclid-ec.org/) at LMU, building software and scalable analysis tools for its large datasets.
 
-![Astronomers under the night sky at Paranal Observatory]({{ site.url }}{{ site.baseurl }}/assets/images2/eso_people.jpg)
+![Astronomers under the night sky at Paranal Observatory]({{ site.url }}{{ site.baseurl }}/assets/images/eso_people.jpg)
 
 *The stars within our grasp. Image credit: ESO/B. Tafreshi.*
 

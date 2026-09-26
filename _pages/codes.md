@@ -2,7 +2,7 @@
 permalink: /codes/
 excerpt: "Scientific software and computational tools."
 header:
-  image: /assets/images2/eso_apex.jpg
+  image: /assets/images/eso_apex.jpg
   caption: "Credit: R. Wesson/ESO"
 last_modified_at: today
 toc: true
@@ -16,7 +16,7 @@ I develop and adapt computational methods for astronomical data analysis, from A
 
 [AGN-Specfit](https://github.com/irhamta/AGN-Specfit) is a modified version of [QSFit](https://github.com/gcalderone/qsfit) for modeling optical and ultraviolet spectra of Type 1 AGNs. I adapted the pipeline to analyze SDSS spectra and measure their emission properties.
 
-![AGN-Specfit example]({{ site.url }}{{ site.baseurl }}/assets/images2/specfit.png)
+![AGN-Specfit example]({{ site.url }}{{ site.baseurl }}/assets/images/specfit.png)
 
 *Example of spectral modeling of an SDSS Type 1 AGN.*
 
@@ -28,7 +28,7 @@ I develop and adapt computational methods for astronomical data analysis, from A
 
 I adapted ANNZ for AGNs in the study [Cosmic Evolution of Nearby Radio Active Galactic Nuclei](https://iopscience.iop.org/article/10.1088/1742-6596/1231/1/012005).
 
-![ANNZ example]({{ site.url }}{{ site.baseurl }}/assets/images2/annz_hist.png)
+![ANNZ example]({{ site.url }}{{ site.baseurl }}/assets/images/annz_hist.png)
 
 *Comparison between photometric and spectroscopic redshifts for the AGN sample.*
 
