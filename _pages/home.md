@@ -12,18 +12,20 @@ header:
   caption: "Credit: ESO"
 excerpt: "Astronomer and Data Scientist"
 
-intro: 
+intro:
   - title: "About Me"
-    excerpt: "<p>
-		Hi there! I am a Postdoctoral Fellow at the <a href='https://www.tum.de/en/' style='text-decoration:none'>Technical University of Munich</a> and <a href='https://www.mpa-garching.mpg.de/' style='text-decoration:none'>Max Planck Institute for Astrophysics</a> in Garching.
-  		<br><br>
-		My research focuses on understanding how the first <b>black holes</b> and <b>galaxies</b> assembled across cosmic time by studying <b>high-redshift quasars</b>.
-		Assisted by <b>gravitational lensing</b>, we can probe their star formation and accretion processes in high fidelity.
-		I am also interested in modeling lens systems to constrain the nature of <b>dark matter</b> and the processes that govern <b>cosmological structure formation</b>.
-  		<br><br>
-  		I completed my Ph.D. at the <a href='http://www.mpia.de/en' style='text-decoration:none'>Max Planck Institute for Astronomy</a> and <a href='https://www.ugent.be/en' style='text-decoration:none'>Ghent University</a> in 2022.
-                Before then, I worked as a Data Scientist with experience in delivering insights via data analytics and advanced machine learning for the fintech/e-commerce business, products, and market.
-	     </p>"
+    excerpt: |
+      I am a Research Software Engineer at LMU Munich, working at the
+      intersection of astrophysics, machine learning, and scientific computing.
+
+      I study how supermassive black holes grow across cosmic time. By combining
+      large-scale astronomical surveys, gravitational lensing, and computational
+      methods, I search for rare, short-lived accretion phases that conventional
+      selection methods can miss, connecting individual episodes of black hole
+      activity to their assembly over billions of years.
+
+      My background spans academia and industry, integrating scientific research
+      with experience developing data-driven solutions in fintech and e-commerce.
     url: "/about/"
     btn_label: "<i class='fas fa-satellite-dish'></i> Read My Bio"
     btn_class: "btn--info"
@@ -32,21 +34,21 @@ research:
   - image_path: /assets/images2/eso_galaxy_1.jpg
     image_caption: "Credit: ESO/Juan Carlos Muñoz"
     title: "Research Interest"
-    excerpt: "<ul>
-                  <li>Formation and evolution of active galaxies in the early Universe.</li>
-                  <li>Cosmic reionization and properties of the intergalactic medium at high redshifts.</li>
-                  <li>Extragalactic astrophysics with gravitational lensing.</li>
-                  <li>Photometric redshifts estimation and applications.</li>
-                  <li>Predictive analytics with the machine and deep learning.</li>
-              </ul>"
+    excerpt: |
+      - Supermassive black hole and galaxy evolution across cosmic time.
+      - Time-domain astrophysics, including changing-state AGNs and transient accretion.
+      - Strong gravitational lensing for probing faint and distant black holes.
+      - Machine learning for rare-object discovery and physical inference in large-scale astronomical surveys.
 
 publications:
   - image_path: /assets/images2/eso_galaxy_2.jpg
     image_caption: "Credit: ESO"
     title: "Publications"
-    excerpt: "Most of my publications can be found on my research page.
-    I usually store my scientific results in ResearchGate, while popular articles about astronomy are posted in XploreAstro.
-    You can also find my refereed journal articles via the <a href='https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0' style='text-decoration:none'>SAO/NASA ADS</a>."
+    excerpt: |
+      Selected projects and scientific results are highlighted on my Research
+      page. I also write about astronomy for a broader audience on
+      [XploreAstro](https://xploreastro.wordpress.com/). A complete list of my
+      refereed publications is available on [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0).
     url: "/research/"
     btn_label: "<i class='fas fa-laptop'></i> Research Page"
     btn_class: "btn--info"
@@ -57,15 +59,19 @@ images_set:
   - image_path: /assets/images2/nasa_galaxy_3.jpg
     image_caption: "Image courtesy of NASA"
 
-code: 
+codes:
   - title: "Scientific Codes"
-    excerpt: "Some of the scientific codes that I have developed can be found on my <a href='/codes/' style='text-decoration:none'>codes</a> page, or you can also go directly to my <a href='https://github.com/irhamta/' style='text-decoration:none'>GitHub</a> webpage."
+    excerpt: |
+      You can explore some of the scientific software and tools I have developed
+      on my Codes page or [GitHub](https://github.com/irhamta/).
 
 contact:
-  - title: "Want to reach me?"
-    excerpt: "If you have any questions about my research, articles, or codes, feel free to contact me via this email. I can also be contacted informally through my social media below."
-    url: "mailto:irham.andika@tum.de"
-    btn_label: "<i class='fas fa-envelope'></i> irham.andika@tum.de"
+  - title: "Want to Get in Touch?"
+    excerpt: |
+      Have a question about my research or scientific software, or interested in
+      collaborating? Feel free to reach out by email.
+    url: "mailto:irham.andika@lmu.de"
+    btn_label: "<i class='fas fa-envelope'></i> irham.andika@lmu.de"
     btn_class: "btn--info"
 ---
 
@@ -75,7 +81,7 @@ contact:
 
 {% include feature_row id="publications" type="right" %}
 
-{% include feature_row id="code" type="center" %}
+{% include feature_row id="codes" type="center" %}
 
 {% include feature_row id="images_set" %}
 
