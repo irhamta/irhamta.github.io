@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+title: "About"
 excerpt: "Irham's about page."
 header:
   image: /assets/images/eso_paranal.jpg
@@ -8,7 +9,7 @@ last_modified_at: today
 toc: true
 ---
 
-## Short Biography
+## Background
 
 I am an astronomer at [LMU Munich](https://www.lmu.de/en/), interested in how galaxies evolve across cosmic time. My research combines observations and computational methods to uncover rare and short-lived phases of supermassive black hole accretion.
 

@@ -1,5 +1,6 @@
 ---
 permalink: /codes/
+title: "Codes"
 excerpt: "Scientific software and computational tools."
 header:
   image: /assets/images/eso_apex.jpg
