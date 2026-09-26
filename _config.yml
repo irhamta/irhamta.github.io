@@ -27,7 +27,7 @@ google_site_verification: 5OzXF2sE1c53pNOoqs62S327bcHUYJbwuQpjvmAMJLw
 social:
   links:
     - "https://github.com/irhamta"
-    - "https://www.linkedin.com/in/irham-taufik-andika/"
+    - "https://www.linkedin.com/in/irhamta/"
 
 # Analytics
 analytics: false
@@ -50,7 +50,7 @@ author:
       url: "https://github.com/irhamta"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/irham-taufik-andika/"
+      url: "https://www.linkedin.com/in/irhamta/"
 
 # Site Footer
 footer:
@@ -60,7 +60,7 @@ footer:
       url: "https://github.com/irhamta"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/irham-taufik-andika/"
+      url: "https://www.linkedin.com/in/irhamta/"
 
 
 # Reading Files

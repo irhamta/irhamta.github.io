@@ -8,9 +8,9 @@ header:
   overlay_image: /assets/images2/eso_centaurus_a.jpg
   actions:
     - label: "<i class='fas fa-rocket'></i> Explore"
-      url: "#contact"
+      url: "#about"
   caption: "Credit: ESO"
-excerpt: "Astronomer and Data Scientist"
+excerpt: "Astronomer & ML Engineer"
 
 intro:
   - title: "About Me"
@@ -32,6 +32,7 @@ intro:
 
 research:
   - image_path: /assets/images2/eso_galaxy_1.jpg
+    alt: "Galaxy in the early Universe"
     image_caption: "Credit: ESO/Juan Carlos Muñoz"
     title: "Research Interest"
     excerpt: |
@@ -42,6 +43,7 @@ research:
 
 publications:
   - image_path: /assets/images2/eso_galaxy_2.jpg
+    alt: "Distant galaxy"
     image_caption: "Credit: ESO"
     title: "Publications"
     excerpt: |
@@ -55,8 +57,11 @@ publications:
 
 images_set:
   - image_path: /assets/images2/nasa_galaxy_1.jpg
+    alt: "Galaxy observed by NASA"
   - image_path: /assets/images2/nasa_galaxy_2.jpg
+    alt: "Galaxy observed by NASA"
   - image_path: /assets/images2/nasa_galaxy_3.jpg
+    alt: "Galaxy observed by NASA"
     image_caption: "Image courtesy of NASA"
 
 codes:
@@ -64,6 +69,9 @@ codes:
     excerpt: |
       You can explore some of the scientific software and tools I have developed
       on my Codes page or [GitHub](https://github.com/irhamta/).
+    url: "/codes/"
+    btn_label: "<i class='fas fa-laptop-code'></i> Explore My Codes"
+    btn_class: "btn--info"
 
 contact:
   - title: "Want to Get in Touch?"
@@ -75,6 +83,7 @@ contact:
     btn_class: "btn--info"
 ---
 
+<div id="about"></div>
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="research" type="left" %}
