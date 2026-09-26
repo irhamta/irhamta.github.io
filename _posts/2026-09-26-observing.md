@@ -1,5 +1,5 @@
 ---
-title: "Observing Programs and Experience"
+title: "Observing"
 categories:
   - CV
 tags:
