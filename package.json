@@ -1,23 +1,23 @@
 {
-  "name": "minimal-mistakes",
+  "name": "irhamta.github.io",
   "private": true,
-  "version": "4.24.0",
-  "description": "Minimal Mistakes 2 column Jekyll theme.",
+  "version": "1.0.0",
+  "description": "Personal website of Irham Taufik Andika.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "https://github.com/irhamta/irhamta.github.io.git"
   },
   "keywords": [
     "jekyll",
     "theme",
     "minimal"
   ],
-  "author": "Michael Rose",
+  "author": "Irham T. Andika",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/irhamta/irhamta.github.io/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://irhamta.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
