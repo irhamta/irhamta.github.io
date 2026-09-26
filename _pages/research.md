@@ -11,74 +11,42 @@ toc: true
 
 ## On the Nature of Active Galaxies: Emission Properties and Correlations
 
-My research interest includes the observational study of the **active galactic nuclei (AGNs)** to understand their origin, physical processes, and evolution. 
-AGN is powered by matter accretion onto a **supermassive black hole (SMBH)**. 
-The produced energy is usually released as radiation, winds, and jets. 
-{: style="text-align: justify;"}
+My research interests include the observational study of **active galactic nuclei (AGNs)** to understand their origins, physical processes, and evolution. An AGN is powered by matter accreting onto a **supermassive black hole (SMBH)** and releases energy as radiation, winds, and jets.
 
-| ![accreting black hole]({{ site.url }}{{ site.baseurl }}/assets/images2/eso_quasar_1.jpg) |
-|:--:| 
-| *An accreting supermassive black hole at the center of an active galaxy. Image credit: ESO/M. Kornmesser.* |
+![Accreting supermassive black hole]({{ site.url }}{{ site.baseurl }}/assets/images2/eso_quasar_1.jpg)
 
-My previous works incorporate the study of <u>Type 1 AGNs</u> using ***SDSS*** data combined with ***ROSAT***, ***GALEX***, ***2MASS***, and ***FIRST*** catalogs. 
-Supported by these rich datasets, we can investigate AGN statistical properties and understand the physics behind emission lines -- i.e., the Baldwin effect and the Eigenvector 1 correlation. 
-We can also study the feedback mechanism by radiation/jets and examine the associated physical trends -- e.g., mass, accretion rate, metallicity, orientation, ionization parameter, etc. -- in the proposed "H-R diagram" for broad-line AGNs. 
-More information can be found in [Andika et al. (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/asna.202013697).
-{: style="text-align: justify;"}
+*An accreting supermassive black hole at the center of an active galaxy. Image credit: ESO/M. Kornmesser.*
+
+My previous work studied **Type 1 AGNs** using **SDSS** data combined with **ROSAT**, **GALEX**, **2MASS**, and **FIRST** catalogs. These datasets allow us to investigate AGN statistical properties and understand the physics behind emission lines, including the Baldwin effect and the Eigenvector 1 correlation. We can also study radiative and jet feedback and examine associated trends in mass, accretion rate, metallicity, orientation, and ionization parameter using the proposed "H-R diagram" for broad-line AGNs. More information can be found in [Andika et al. (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/asna.202013697).
 
 ## Supermassive Black Holes and Galaxies in the Early Universe
-**Quasars** are the most luminous non-transient sources in the Universe.
-At high redshifts (*z* > 6), they can have billion-solar-mass black holes as early as < 1 Gyr after the Big Bang. 
-Hence, quasars are excellent probes for understanding the build-up of the first SMBHs and their host galaxies, the early structure formation, and the nature of cosmic reionization.
-{: style="text-align: justify;"}
+**Quasars** are the most luminous non-transient sources in the Universe. At high redshifts (*z* > 6), they can host billion-solar-mass black holes less than 1 Gyr after the Big Bang. Quasars are therefore excellent probes of the growth of the first SMBHs and their host galaxies, early structure formation, and the nature of cosmic reionization.
 
-| ![distant quasar]({{ site.url }}{{ site.baseurl }}/assets/images2/carnegie_distant_quasar.jpg) | 
-|:--:| 
-| *Artist's conception of the most-distant supermassive black hole ever discovered, part of a quasar from just 690 million years after the Big Bang. This object is surrounded by neutral hydrogen, indicating that it is from the period called the epoch of reionization, when the Universe's first light sources turned on. Illustrations by Robin Dienel provided courtesy of the Carnegie Institution for Science.* |
+![Distant quasar]({{ site.url }}{{ site.baseurl }}/assets/images2/carnegie_distant_quasar.jpg)
 
-We currently dove directly into selecting the quasar candidates using data from ***Pan-STARRS***, ***UKIRT***, and ***WISE***.
-Statistical methods are applied to generate a well-vetted list of candidates and infer their purity. 
-Some have been followed up with ***Magellan/FIRE***, ***Gemini/GNIRS***, and ***VLT/MUSE***, which led us to discover <u>PSO J083+11</u>, an intriguing weak-line quasar at *z* = 6.34. 
-***HST/WFC3-ACS*** imaging shows no gravitational lensing affecting the apparent emission.
-Submillimeter observations with ***ALMA*** reveal that the quasar host has an extreme star formation rate. 
-The age measured from the proximity zone size suggests that this source belongs to the young quasar population with a lifetime of only ~10,000 yr, which poses significant challenges to the current black hole formation models.
-For details, please have a look at our papers ([Andika et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...903...34A/abstract), [2022](https://ui.adsabs.harvard.edu/abs/2022AJ....163..251A/abstract)).
-{: style="text-align: justify;"}
+*Artist's conception of the most-distant supermassive black hole ever discovered, part of a quasar from just 690 million years after the Big Bang. This object is surrounded by neutral hydrogen, indicating that it is from the period called the epoch of reionization, when the Universe's first light sources turned on. Illustration by Robin Dienel, courtesy of the Carnegie Institution for Science.*
+
+We focus on selecting quasar candidates using data from **Pan-STARRS**, **UKIRT**, and **WISE**. Statistical methods are used to generate well-vetted candidate lists and estimate their purity. Follow-up observations with **Magellan/FIRE**, **Gemini/GNIRS**, and **VLT/MUSE** led to the discovery of **PSO J083+11**, an intriguing weak-line quasar at *z* = 6.34. **HST/WFC3-ACS** imaging shows no evidence of gravitational lensing affecting its apparent emission, while submillimeter observations with **ALMA** reveal an extreme star formation rate in the quasar host. The proximity-zone size suggests that this source belongs to a young quasar population with a lifetime of only ~10,000 years, posing significant challenges to current black hole formation models. For details, see [Andika et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...903...34A/abstract) and [Andika et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022AJ....163..251A/abstract).
 
 ## Searching for Lensed Quasars through Deep Learning
-Another notable issue in the *z* > 6 quasar surveys is the scarcity of **gravitationally lensed quasars**.
-For decades, it has been predicted that up to a third of high-*z* quasars should be strongly lensed.
-However, only one has been found so far (i.e., <u>J0439+1634</u> at *z* = 6.51).
-A re-examination of previous selection techniques indicates a substantial bias against lensed quasars.
-{: style="text-align: justify;"}
+Another notable issue in *z* > 6 quasar surveys is the scarcity of **gravitationally lensed quasars**. For decades, models have predicted that up to a third of high-*z* quasars should be strongly lensed. However, only one has been found so far: **J0439+1634** at *z* = 6.51. A re-examination of previous selection techniques indicates a substantial bias against lensed quasars.
 
-| ![lens training]({{ site.url }}{{ site.baseurl }}/assets/images2/fig_lensprob_test3.png) | 
-|:--:| 
-| *Example of negatives (galaxies and point sources) and positives (mock lenses) in the training dataset.*|
+![Lens-training examples]({{ site.url }}{{ site.baseurl }}/assets/images2/fig_lensprob_test3.png)
 
-Deep learning approaches based on the **convolutional neural network (CNN)** and **vision transformer (ViT)** architectures have shown to be effective in pattern recognition.
-Subsequently, we exploit these techniques to the multiband images from ***HSC***, ***DES***, ***UKIRT***, ***VISTA***, and ***WISE*** to search for **galaxy-scale strong lenses**.
-The training datasets are constructed by painting simulated lensed arcs over actual galaxy images to generate realistic **galaxy-quasar lens** models.
-As a result, we present new lensed quasar candidates waiting for spectroscopic confirmation ([Andika et al. 2023a](https://ui.adsabs.harvard.edu/abs/2023ApJ...943..150A/abstract), [2023b](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.103A/abstract)).
-{: style="text-align: justify;"}
+*Examples of negative examples (galaxies and point sources) and positive examples (mock lenses) in the training dataset.*
+
+Deep learning approaches based on **convolutional neural network (CNN)** and **vision transformer (ViT)** architectures are effective for pattern recognition. We apply these techniques to multiband images from **HSC**, **DES**, **UKIRT**, **VISTA**, and **WISE** to search for **galaxy-scale strong lenses**. The training datasets are constructed by painting simulated lensed arcs onto actual galaxy images to generate realistic **galaxy-quasar lens** models. As a result, we have identified new lensed quasar candidates awaiting spectroscopic confirmation ([Andika et al. (2023a)](https://ui.adsabs.harvard.edu/abs/2023ApJ...943..150A/abstract), [Andika et al. (2023b)](https://ui.adsabs.harvard.edu/abs/2023A%26A...678A.103A/abstract)).
 
 ## Cosmic Evolution of Radio Active Galactic Nuclei
 
-| ![radio galaxy]({{ site.url }}{{ site.baseurl }}/assets/images2/hubble_radio_galaxy.jpg) | 
-|:--:| 
-| *This VLA radio composite image shows the active galaxy 3C 348, also known as Hercules A. The VLA data, which record frequencies from 4-9 GHz, were taken in 2010-2011. Image credit: R. Perley and W. Cotton (NRAO/AUI/NSF).* |
+![Radio galaxy]({{ site.url }}{{ site.baseurl }}/assets/images2/hubble_radio_galaxy.jpg)
 
-A few years ago, I participated in the ***LOFAR*** radio survey project. 
-My research aims to characterize <u>radio AGNs</u> using brand-new observations in the low-frequency region of the electromagnetic spectrum. 
-By constructing the radio AGNs luminosity function, we can study the different modes of the black hole accretion out to unprecedented distances, providing critical constraints on the models of **black hole formation** and **AGNs unification** theories. 
-Check out [Andika et al. (2019)](https://iopscience.iop.org/article/10.1088/1742-6596/1231/1/012005) for the details.
-{: style="text-align: justify;"}
+*This VLA radio composite image shows the active galaxy 3C 348, also known as Hercules A. The VLA data, which record frequencies from 4–9 GHz, were taken in 2010–2011. Image credit: R. Perley and W. Cotton (NRAO/AUI/NSF).*
+
+A few years ago, I participated in the **LOFAR** radio survey project. My research focused on characterizing **radio AGNs** using new observations in the low-frequency region of the electromagnetic spectrum. By constructing the radio AGN luminosity function, we can study different modes of black hole accretion across cosmic time, providing critical constraints on models of **black hole formation** and **AGN unification**. See [Andika et al. (2019)](https://iopscience.iop.org/article/10.1088/1742-6596/1231/1/012005) for details.
 
 ## List of Publications
 
-My publications are listed through the links below. 
-I usually store my scientific results in [ResearchGate](https://www.researchgate.net/profile/Irham_Andika/publications), while popular articles about astronomy are posted in [XploreAstro](https://xploreastro.wordpress.com/category/astrophysics/).
-You can also find my refereed articles via the Astrophysics Data System (ADS).
-{: style="text-align: justify;"}
+A complete list of my refereed publications is available through ADS. I also write about astronomy for a broader audience on [XploreAstro](https://xploreastro.wordpress.com/category/astrophysics/).
 
 [<i class='fas fa-space-shuttle'></i> Link to ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6102-9526&sort=date%20desc%2C%20bibcode%20desc&p_=0){: .btn .btn--info}
