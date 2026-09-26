@@ -1,6 +1,5 @@
 ---
 permalink: /research/
-title: "Research"
 excerpt: "Research on supermassive black holes, active galaxies, gravitational lensing, and machine learning."
 header:
   image: /assets/images2/eso_alma.jpg
