@@ -7,7 +7,7 @@ title: "Irham T. Andika"
 title_separator: "|"
 subtitle: "Unlimited Curiosity!" # site tagline that appears below site title in masthead
 name: &name "Irham T. Andika"
-description: &description "Personal website of Irham Taufk Andika. I'm an Astronomer with unlimited curiosity!"
+description: &description "Personal website of Irham T. Andika. I'm an Astronomer with unlimited curiosity!"
 url: "https://irhamta.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "irhamta/irhamta.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
